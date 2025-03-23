@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arshi Bansal</h1>
+<h1 align="center">Hi 👋, Myself Arshi Bansal</h1>
 <h3 align="center">Passionate full-stack developer crafting engaging frontend experiences while mastering data management and analysis in the world of data science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArshiBansal&label=Profile%20views&color=0e75b6&style=flat" alt="ArshiBansal" /> </p>
@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently exploring **Java, React, and Data Science.**
 - 📊 I love working with **Tableau, Power BI, and Excel** to visualize data.
-- 🚀 Passionate about **web development, data analysis, and AI.**
-- 📫 How to reach me **your_email@example.com**
+- 🚀 Passionate about **web development, data management and analysis, and AI.**
+- 📫 How to reach me **cold12coffee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

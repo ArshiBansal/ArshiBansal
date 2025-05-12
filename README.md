@@ -58,14 +58,6 @@
 
 ---
 
-### LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ArshiBansal?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Profile" />
-</p>
-
----
-
 ### GitHub Stats
 
 <div align="center">
@@ -74,7 +66,3 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ArshiBansal/count.svg?" alt="Visitor Counter" />
-</p>

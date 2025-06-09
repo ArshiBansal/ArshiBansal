@@ -1,38 +1,28 @@
-<h1 align="center">I’m Arshi Bansal</h1>
-<h3 align="center">Building Robust Full-Stack Applications and Uncovering Insights through Data Science</h3>
+2<h1 align="center">I’m Arshi Bansal 🚀</h1>
+<h3 align="center">Harnessing Data Science to Unlock Insights and Pioneering AI Innovations 🌟</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArshiBansal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+---
+
+### 🧠 About Me 📝
+
+<p align="justify">
+My passion for Data Science 📊 drives me to dive deep into complex datasets, transforming raw information into actionable insights that fuel impactful decisions 💡. With a keen analytical mindset 🧮, I excel at uncovering hidden patterns and trends, turning data into a powerful tool for problem-solving. My work in Artificial Intelligence 🤖 focuses on designing intelligent systems that streamline processes and tackle real-world challenges 🌍. I am dedicated to continuous learning 📚, keeping pace with the latest advancements in these fast-evolving fields to stay at the forefront of innovation.
+</p>
+<p align="justify">
+Collaboration is at the heart of my approach, as I thrive on working with others to share knowledge and spark creativity 🤝. Whether building predictive models or exploring cutting-edge machine learning algorithms 🖥️, I am committed to pushing the boundaries of what’s possible 🌠. My ultimate goal is to make a meaningful contribution to the AI and Data Science landscape 🌱, creating solutions that are both innovative and practical. Through dedication and curiosity, I aim to inspire and drive progress in these transformative fields.
 </p>
 
 ---
 
-### 🧠 Bio
+### 📩 Connect with Me 🌐
 
-- 🌐 I’m currently exploring **Full-Stack Development** to build end-to-end applications  
-- 📊 I’m diving into **Data Science** to uncover meaningful insights through data analysis  
-- 📩 Reach out to me at **cold12coffe@gmail.com**
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="40" height="40"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-</p>
+- **Email** 📧: cold12coffe@gmail.com
+- **Twitter** 🐦: https://x.com/arshi8050121375
+- **LinkedIn** 💼: https://www.linkedin.com/in/arshi-bansal-7a843736a/
 
 ---
 
-### 🏆 Achievements
+### 🏆 Accomplishments 🎉
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
@@ -40,18 +30,33 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics 📈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10" alt="GitHub Stats" style="display: inline-block; width: 45%; margin: 0 2.5%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiBansal&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" style="display: inline-block; width: 45%; margin: 0 2.5%;" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiBansal&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=10&hide=html" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=10" alt="Top Languages" style="display: block; width: 50%; margin: 20px auto;" />
 </p>
 
 ---
+
+### 🔮 Future Scope 🔭
+
+<p align="justify">
+Looking ahead, I aim to deepen my expertise in advanced machine learning techniques 🧠, focusing on areas like generative AI and reinforcement learning to tackle complex, real-world problems 🌍. I plan to explore the integration of AI with emerging technologies such as quantum computing ⚛️ to enhance computational capabilities. Additionally, I intend to contribute to open-source AI and Data Science projects 🌐, fostering collaboration and innovation within the global community 🤝. My vision includes leveraging AI for social good, particularly in areas like healthcare 🩺 and sustainability 🌱, to create meaningful impact. I am also committed to mentoring aspiring data scientists 👩‍🏫, sharing knowledge, and building a network of innovators to shape the future of these fields 🚀.
+</p>
+
+---
+
+### 🐍 Contribution Snake Game 🎮
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArshiBansal/ArshiBansal/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="max-width: 100%; border-radius: 10px; margin: 20px auto;" />
+</p>
+
+<p align="center">
+  Watch my GitHub contributions come alive in this animated snake visualization! 🐍 This dynamic SVG showcases my coding journey as a slithering snake, updated daily. 🚀
+</p>mic and engaging way. 🚀
+</p>

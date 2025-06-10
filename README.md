@@ -50,9 +50,9 @@ Looking ahead, I aim to deepen my expertise in advanced machine learning techniq
 
 ---
 
-<h2 align="center">🐍 Watch the Snake Eat My GitHub Contributions</h2>
+## 🐍 Watch the Snake Eat My GitHub Contributions
 
 <p align="center">
-  ![GitHub Snake](https://raw.githubusercontent.com/ArshiBansal/ArshiBansal/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/ArshiBansal/ArshiBansal/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 

@@ -1,4 +1,4 @@
-2<h1 align="center">I’m Arshi Bansal 🚀</h1>
+<h1 align="center">I’m Arshi Bansal 🚀</h1>
 <h3 align="center">Harnessing Data Science to Unlock Insights and Pioneering AI Innovations 🌟</h3>
 
 ---
@@ -53,6 +53,6 @@ Looking ahead, I aim to deepen my expertise in advanced machine learning techniq
 <h2 align="center">🐍 Watch the Snake Eat My GitHub Contributions</h2>
 
 <p align="center">
-  ![snake gif](https://raw.githubusercontent.com/ArshiBansal/ArshiBansal/output/github-contribution-grid-snake.svg)
+  ![GitHub Snake](https://raw.githubusercontent.com/ArshiBansal/ArshiBansal/output/github-contribution-grid-snake.svg)
 </p>
 

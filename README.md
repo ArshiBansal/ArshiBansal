@@ -50,13 +50,9 @@ Looking ahead, I aim to deepen my expertise in advanced machine learning techniq
 
 ---
 
-### 🐍 Contribution Snake Game 🎮
+<h2 align="center">🐍 Watch the Snake Eat My GitHub Contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArshiBansal/ArshiBansal/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="max-width: 100%; border-radius: 10px; margin: 20px auto;" />
+  <img src="https://github.com/ArshiBansal/ArshiBansal/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
-<p align="center">
-  Watch my GitHub contributions come alive in this animated snake visualization! 🐍 This dynamic SVG showcases my coding journey as a slithering snake, updated daily. 🚀
-</p>mic and engaging way. 🚀
-</p>

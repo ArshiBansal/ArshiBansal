@@ -1,28 +1,22 @@
-<h1 align="center">I’m Arshi Bansal 🚀</h1>
-<h3 align="center">Harnessing Data Science to Unlock Insights and Pioneering AI Innovations 🌟</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9D79F2&width=500&lines=Hi+there+%F0%9F%91%8B+I+am+Arshi+Bansal;Data+Science+%7C+AI+%7C+ML+Enthusiast;Turning+data+into+insights;Always+learning+new+things+%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
 
----
-
-### 🧠 About Me 📝
-
-<p align="justify">
-My passion for Data Science 📊 drives me to dive deep into complex datasets, transforming raw information into actionable insights that fuel impactful decisions 💡. With a keen analytical mindset 🧮, I excel at uncovering hidden patterns and trends, turning data into a powerful tool for problem-solving. My work in Artificial Intelligence 🤖 focuses on designing intelligent systems that streamline processes and tackle real-world challenges 🌍. I am dedicated to continuous learning 📚, keeping pace with the latest advancements in these fast-evolving fields to stay at the forefront of innovation.
-</p>
-<p align="justify">
-Collaboration is at the heart of my approach, as I thrive on working with others to share knowledge and spark creativity 🤝. Whether building predictive models or exploring cutting-edge machine learning algorithms 🖥️, I am committed to pushing the boundaries of what’s possible 🌠. My ultimate goal is to make a meaningful contribution to the AI and Data Science landscape 🌱, creating solutions that are both innovative and practical. Through dedication and curiosity, I aim to inspire and drive progress in these transformative fields.
+<p align="center">
+  Data Scientist passionate about solving real-world problems 🌍 • Building AI systems to transform data into powerful decisions 📊 • Exploring new tech every day and pushing the limits 🚀
 </p>
 
 ---
 
-### 📩 Connect with Me 🌐
+## 🧠 About Me
 
-- **Email** 📧: cold12coffe@gmail.com
-- **Twitter** 🐦: https://x.com/arshi8050121375
-- **LinkedIn** 💼: https://www.linkedin.com/in/arshi-bansal-7a843736a/
+<p align="center">
+Passionate about <b>Data Science 📊</b> and <b>AI 🤖</b>, I thrive on transforming complex datasets into actionable insights and building intelligent systems that solve real-world problems 🌍. I’m always exploring new tools and algorithms, eager to learn and collaborate on innovative projects 🚀. From predictive models to powerful visualizations, I aim to make data drive impactful decisions.
+</p>
 
 ---
 
-### 🏆 Accomplishments 🎉
+## 🏆 Achievements & Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
@@ -30,29 +24,68 @@ Collaboration is at the heart of my approach, as I thrive on working with others
 
 ---
 
-### 📊 GitHub Statistics 📈
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10" alt="GitHub Stats" style="display: inline-block; width: 45%; margin: 0 2.5%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiBansal&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" style="display: inline-block; width: 45%; margin: 0 2.5%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiBansal&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=10" alt="Top Languages" style="display: block; width: 50%; margin: 20px auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=10" width="400" alt="Top Languages" />
 </p>
 
 ---
 
-### 🔮 Future Scope 🔭
+## 💻 Tech Stack
 
-<p align="justify">
-Looking ahead, I aim to deepen my expertise in advanced machine learning techniques 🧠, focusing on areas like generative AI and reinforcement learning to tackle complex, real-world problems 🌍. I plan to explore the integration of AI with emerging technologies such as quantum computing ⚛️ to enhance computational capabilities. Additionally, I intend to contribute to open-source AI and Data Science projects 🌐, fostering collaboration and innovation within the global community 🤝. My vision includes leveraging AI for social good, particularly in areas like healthcare 🩺 and sustainability 🌱, to create meaningful impact. I am also committed to mentoring aspiring data scientists 👩‍🏫, sharing knowledge, and building a network of innovators to shape the future of these fields 🚀.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0769AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
+</p>
+
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:cold12coffe@gmail.com"><img src="https://img.shields.io/badge/Email-cold12coffe@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/arshi8050121375"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arshi-bansal-7a843736a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🐍 Watch the Snake Eat My GitHub Contributions
+## 🔮 Future Scope
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArshiBansal/ArshiBansal/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+Looking ahead, I aim to explore advanced ML topics like generative AI & reinforcement learning, integrate AI with emerging tech such as quantum computing ⚛️, and contribute to open-source projects 🌱. I’m also passionate about applying AI for social good, especially in healthcare and sustainability, while mentoring aspiring data scientists 👩‍🏫 to shape a collaborative future 🚀.
 </p>
 
+---

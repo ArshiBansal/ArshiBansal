@@ -32,7 +32,7 @@ Passionate about <b>Data Science 📊</b> and <b>AI 🤖</b>, I thrive on transf
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=10" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&border_radius=10" width="400" alt="Top Languages" />
 </p>
 
 ---

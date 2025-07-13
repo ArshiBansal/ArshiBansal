@@ -69,6 +69,13 @@ Passionate about <b>Data Science 📊</b> and <b>AI 🤖</b>, I thrive on transf
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
 </p>
 
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rajeev12r/rajeev12r/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 

@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
+    - cron: "0 */12 * * *"  # Every 12 hours
   workflow_dispatch:
   push:
     branches:
@@ -17,13 +17,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake.svg
+      - name: Create output directory
+        run: mkdir -p dist
+
+      - name: Generate light snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ArshiBansal
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Generate dark mode snake.svg
+      - name: Generate dark snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ArshiBansal

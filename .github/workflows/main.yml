@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -33,10 +33,11 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake-dark.svg
           palette: github-dark
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          force_orphan: true  # 🔥 force-creates output branch and overwrites files
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

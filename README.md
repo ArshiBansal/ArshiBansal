@@ -71,14 +71,6 @@ Passionate about <b>Data Science 📊</b> and <b>AI 🤖</b>, I thrive on transf
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ArshiBansal/ArshiBansal/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">

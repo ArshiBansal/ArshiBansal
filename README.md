@@ -108,13 +108,13 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10" width="45%" />
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&border_radius=10&hide_progress=true" width="45%" alt="Top Languages" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArshiBansal&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiBansal&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshiBansal&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&border_radius=10" width="45%" alt="Top Languages" />
 </p>
 
 ---

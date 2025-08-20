@@ -1,61 +1,72 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9D79F2&width=500&lines=Hi+there+%F0%9F%91%8B+I+am+Arshi+Bansal;Data+Science+%7C+AI+%7C+ML+Enthusiast;Turning+data+into+insights;Always+learning+new+things+%F0%9F%8C%9F" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  Data Scientist passionate about solving real-world problems 🌍 • Building AI systems to transform data into powerful decisions 📊 • Exploring new tech every day and pushing the limits 🚀
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Hello+World!+I'm+Arshi+Bansal;Data+Scientist;AI+%7C+ML+Enthusiast;Problem+Solver+%7C+Innovator)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-<p align="center">
-Passionate about <b>Data Science 📊</b> and <b>AI 🤖</b>, I thrive on transforming complex datasets into actionable insights and building intelligent systems that solve real-world problems 🌍. I’m always exploring new tools and algorithms, eager to learn and collaborate on innovative projects 🚀. From predictive models to powerful visualizations, I aim to make data drive impactful decisions.
-</p>
+<table>
+  <tr>
+    <td>
 
----
+- 🎓 Hi! I'm **Arshi Bansal**, currently pursuing a **B.Tech in Computer Science**  
+- 📊 Passionate about **Data Science**, **Artificial Intelligence 🤖**, and **Machine Learning**  
+- 🌐 Love working on **Full-Stack Web Development** — blending smart algorithms with seamless user experiences  
+- 💻 Proficient in **Java** and **Python**, building projects that bring ideas to life  
+- 🤝 Open to collaborating on **innovative web development projects** and impactful **AI solutions**  
+- 🚀 Motto: *"Keep coding, keep innovating! Let’s build the future together!"*  
+- 🐧 Fun fact: I use **Windows** btw (>_<)  
+- 🎧 Most likely listening to a song while coding — because good music makes good code!  
 
-## 🏆 Achievements & Trophies
+### 🌐 Connect with Me
+- 📩 [Email](mailto:cold12coffe@gmail.com)  
+- 🐦 [Twitter](https://x.com/arshi8050121375)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arshi-bansal-7a843736a/)  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiBansal&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&border_radius=10" width="400" alt="Top Languages" />
-</p>
+</td>
+<td>
+  <img src="https://i.pinimg.com/736x/40/c2/52/40c252e7896e3065a2777c46d1a6df8b.jpg" alt="Profile Image" width="500"/>
+</td>
+  </tr>
+</table>
 
 ---
 
 ## 💻 Tech Stack
 
+### 📝 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🌐 Web Development & Frameworks
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 📚 Libraries & Frameworks
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-0769AD?style=for-the-badge" />
@@ -64,27 +75,89 @@ Passionate about <b>Data Science 📊</b> and <b>AI 🤖</b>, I thrive on transf
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
 </p>
 
----
-
-## 🌐 Connect with Me
-
+### 📊 Data Visualization & BI Tools
 <p align="center">
-  <a href="mailto:cold12coffe@gmail.com"><img src="https://img.shields.io/badge/Email-cold12coffe@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/arshi8050121375"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/arshi-bansal-7a843736a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+### 🛠️ Version Control & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🔮 Future Scope
+## GitHub Achievements  
 
-<p align="center">
-Looking ahead, I aim to explore advanced ML topics like generative AI & reinforcement learning, integrate AI with emerging tech such as quantum computing ⚛️, and contribute to open-source projects 🌱. I’m also passionate about applying AI for social good, especially in healthcare and sustainability, while mentoring aspiring data scientists 👩‍🏫 to shape a collaborative future 🚀.
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=8&title_color=8A8FBF&text_color=8A8FBF&border_color=8A8FBF" />
+</div>
 
 ---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10" width="45%" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&border_radius=10&hide_progress=true" width="45%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiBansal&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
+</p>
+
+<div align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiBansal&custom_title=Contribution%20Graph&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<table>
+  <tr>
+    <!-- Left Side: Image -->
+    <td width="40%" align="center">
+      <img src="https://i.pinimg.com/736x/44/20/a6/4420a60b1a168f37323aefc7a64de5f1.jpg" width="220px" alt="AI Learning"/>
+    </td>    
+    <!-- Right Side: Text -->
+    <td width="60%" valign="top">
+      <ul>
+        <li>📘 Learning and implementing <b>Machine Learning Algorithms</b></li>
+        <li>🤖 Exploring <b>Artificial Intelligence</b> and <b>Deep Learning</b> concepts</li>
+        <li>📊 Strengthening <b>Data Science</b> and <b>Data Visualization</b> skills</li>
+        <li>🌐 Developing <b>Full-Stack Projects</b> with <b>Spring Boot</b>, <b>Django</b>, and <b>FastAPI</b></li>
+        <li>🚀 Practicing <b>Model Deployment</b> and <b>API Integration</b></li>
+        <li>💡 Expanding expertise in <b>Scalable Backend Systems</b></li>
+        <li>🛠️ Continuously experimenting with <b>cutting-edge technologies</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔮 Future Scope  
+
+<ul>
+  <li>🤖 Diving deeper into <b>advanced ML</b> areas like <b>Generative AI</b>, <b>Reinforcement Learning</b>, and <b>Graph Neural Networks</b></li>
+  <li>⚛️ Exploring the intersection of <b>AI with emerging technologies</b> such as <b>Quantum Computing</b> and <b>Edge AI</b></li>
+  <li>🌱 Contributing actively to <b>open-source projects</b> and collaborating with global developer communities</li>
+  <li>🏥 Applying AI for <b>social good</b> in fields like <b>healthcare</b>, <b>education</b>, and <b>sustainability</b></li>
+  <li>🌍 Working towards <b>AI solutions</b> that address climate change, renewable energy, and resource optimization</li>
+  <li>🧑‍🏫 Mentoring and guiding <b>aspiring data scientists</b> to foster a culture of learning and innovation</li>
+  <li>🚀 Building <b>scalable, production-ready AI systems</b> integrated with cloud platforms and real-world applications</li>
+  <li>💡 Continuously innovating at the crossroads of <b>AI, full-stack development</b>, and <b>data-driven decision making</b></li>
+</ul>

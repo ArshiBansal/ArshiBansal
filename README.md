@@ -117,11 +117,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiBansal&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
 </p>
 
-<div align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiBansal&custom_title=Contribution%20Graph&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" />
-</div>
-
 ---
 
 ## 🎯 Current Focus

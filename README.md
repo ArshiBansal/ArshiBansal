@@ -1,8 +1,7 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=Hello+World!+I'm+Arshi+Bansal;Data+Scientist;AI+%7C+ML+Enthusiast+%7C+Problem+Solver+%7C+Innovator)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=300&lines=Hello+World!+I'm+Arshi+Bansal;Data+Scientist;AI+%7C+ML+Enthusiast;Problem+Solver+%7C+Innovator" alt="Typing SVG" />
 </div>
+
 
 
 ---
@@ -107,12 +106,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=ArshiBansal&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArshiBansal&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
 
 ---
@@ -160,11 +161,5 @@
 ## Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFFFFF&animation=twinkling" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 </div>

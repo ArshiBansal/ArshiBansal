@@ -1,8 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Hello+World!+I'm+Arshi+Bansal;Data+Scientist;AI+%7C+ML+Enthusiast;Problem+Solver+%7C+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=Hello+World!+I'm+Arshi+Bansal;Data+Scientist;AI+%7C+ML+Enthusiast+%7C+Problem+Solver+%7C+Innovator)](https://git.io/typing-svg)
 
 </div>
+
 
 ---
 
@@ -21,10 +22,11 @@
 - 🐧 Fun fact: I use **Windows** btw (>_<)  
 - 🎧 Most likely listening to a song while coding — because good music makes good code!  
 
-### 🌐 Connect with Me
-- 📩 [Email](mailto:cold12coffe@gmail.com)  
-- 🐦 [Twitter](https://x.com/arshi8050121375)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/arshi-bansal-7a843736a/)  
+### 🌐 Connect with Me  
+
+- [Email](mailto:cold12coffe@gmail.com) &nbsp;&nbsp;•&nbsp;&nbsp; [Twitter](https://x.com/arshi8050121375)  
+- [LinkedIn](https://www.linkedin.com/in/arshi-bansal-7a843736a/) &nbsp;&nbsp;•&nbsp;&nbsp; [GitHub](https://github.com/ArshiBansal)  
+- [Instagram](https://www.instagram.com/only_brewed_coffee/) &nbsp;&nbsp;•&nbsp;&nbsp; [LeetCode](https://leetcode.com/u/arshi_bansal/)  
 
 </td>
 <td>
@@ -97,25 +99,21 @@
 ## GitHub Achievements  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=8&title_color=8A8FBF&text_color=8A8FBF&border_color=8A8FBF" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=8" />
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10" width="45%" />
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArshiBansal&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
-</p>
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</div>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshiBansal&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&border_radius=10" width="45%" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ArshiBansal&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+</div>
 
 ---
 
@@ -156,3 +154,17 @@
   <li>🚀 Building <b>scalable, production-ready AI systems</b> integrated with cloud platforms and real-world applications</li>
   <li>💡 Continuously innovating at the crossroads of <b>AI, full-stack development</b>, and <b>data-driven decision making</b></li>
 </ul>
+
+---
+
+## Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFFFFF&animation=twinkling" />
+</div>

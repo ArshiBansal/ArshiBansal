@@ -1,36 +1,50 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=300&lines=Hello+World!+I'm+Arshi+Bansal;Data+Scientist;AI+%7C+ML+Enthusiast;Problem+Solver+%7C+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hello+World!+I'm+Arshi+Bansal" alt="Typing SVG" />
 </div>
 
+---
 
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=7AF79A&center=true&vCenter=true&width=650&lines=I'm+a+Data+Analyst;Also+focusing+on+AI%2FML;Trying+to+learn+Fullstack;Welcome+to+my+Github)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120">
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-
-- 🎓 Hi! I'm **Arshi Bansal**, currently pursuing a **B.Tech in Computer Science**  
-- 📊 Passionate about **Data Science**, **Artificial Intelligence 🤖**, and **Machine Learning**  
-- 🌐 Love working on **Full-Stack Web Development** — blending smart algorithms with seamless user experiences  
-- 💻 Proficient in **Java** and **Python**, building projects that bring ideas to life  
-- 🤝 Open to collaborating on **innovative web development projects** and impactful **AI solutions**  
-- 🚀 Motto: *"Keep coding, keep innovating! Let’s build the future together!"*  
-- 🐧 Fun fact: I use **Windows** btw (>_<)  
-- 🎧 Most likely listening to a song while coding — because good music makes good code!  
-
-### 🌐 Connect with Me  
-
-- [Email](mailto:cold12coffe@gmail.com) &nbsp;&nbsp;•&nbsp;&nbsp; [Twitter](https://x.com/arshi8050121375)  
-- [LinkedIn](https://www.linkedin.com/in/arshi-bansal-7a843736a/) &nbsp;&nbsp;•&nbsp;&nbsp; [GitHub](https://github.com/ArshiBansal)  
-- [Instagram](https://www.instagram.com/only_brewed_coffee/) &nbsp;&nbsp;•&nbsp;&nbsp; [LeetCode](https://leetcode.com/u/arshi_bansal/)  
-
-</td>
-<td>
-  <img src="https://i.pinimg.com/736x/40/c2/52/40c252e7896e3065a2777c46d1a6df8b.jpg" alt="Profile Image" width="500"/>
-</td>
+    <!-- Text Column -->
+    <td width="50%" valign="top" style="padding-right: 20px; line-height: 1.6; font-family: Arial, sans-serif;">
+      - 🎓 Hi! I'm <b>Arshi Bansal</b>, currently pursuing a <b>B.Tech in Computer Science</b> <br>
+      - 📊 Passionate about <b>Data Science</b>, <b>Artificial Intelligence 🤖</b>, and <b>Machine Learning</b> <br>
+      - 🌐 Love working on <b>Full-Stack Web Development</b> — blending smart algorithms with seamless user experiences <br>
+      - 💻 Proficient in <b>Java</b> and <b>Python</b>, building projects that bring ideas to life <br>
+      - 🧠 Enthusiastic about building <b>predictive models</b>, analyzing <b>large datasets</b>, and applying <b>AI/ML algorithms</b> to solve real-world problems <br>
+      - 📈 Exploring <b>data visualization</b> and <b>statistical analysis</b> to communicate insights effectively <br>
+      - 😅 Debugging can be tricky sometimes (^_^) but rewarding! <br>
+      - 🤓 Late-night coding sessions often look like this (o_o) but ideas keep flowing <br>
+      - 😎 Coffee in one hand, keyboard in the other (¬_¬) — productivity mode ON! <br>
+      - 🚀 Motto: <i>"Keep coding, keep innovating! Let’s build the future together!"</i> <br>
+      - 🐧 Fun fact: I use <b>Windows</b> btw (•_•) <br>
+      - ☕ Coffee fuels my coding sessions — nothing beats a good cup while brainstorming ideas! (◕‿◕) <br>
+      - 🎧 Most likely listening to <b>music 🎶</b> while coding — because good music makes good code! (>_>) <br><br>
+      <b>🔗 Find Me Online</b><br>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+        <a href="mailto:cold12coffe@gmail.com" style="text-decoration: none; background-color: #00D9FF; color: white; padding: 8px 20px; border-radius: 50px; font-weight: bold;">Email</a>
+        <a href="https://x.com/arshi8050121375" style="text-decoration: none; background-color: #1DA1F2; color: white; padding: 8px 20px; border-radius: 50px; font-weight: bold;">Twitter</a>
+        <a href="https://www.linkedin.com/in/arshi-bansal-7a843736a/" style="text-decoration: none; background-color: #0A66C2; color: white; padding: 8px 20px; border-radius: 50px; font-weight: bold;">LinkedIn</a>
+        <a href="https://github.com/ArshiBansal" style="text-decoration: none; background-color: #171515; color: white; padding: 8px 20px; border-radius: 50px; font-weight: bold;">GitHub</a>
+        <a href="https://www.instagram.com/only_brewed_coffee/" style="text-decoration: none; background-color: #C13584; color: white; padding: 8px 20px; border-radius: 50px; font-weight: bold;">Instagram</a>
+        <a href="https://leetcode.com/u/arshi_bansal/" style="text-decoration: none; background-color: #FFA116; color: white; padding: 8px 20px; border-radius: 50px; font-weight: bold;">LeetCode</a>
+      </div>
+    </td>
+    <!-- Image Column -->
+    <td width="50%" valign="top" style="text-align: center;">
+      <img src="https://i.pinimg.com/736x/40/c2/52/40c252e7896e3065a2777c46d1a6df8b.jpg" alt="Profile Image" style="width: 100%; max-width: 500px; border-radius: 15px;"/>
+    </td>
   </tr>
 </table>
 

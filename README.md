@@ -104,34 +104,6 @@
 
 ---
 
-## GitHub Achievements 
-
-<div align="center" style="margin: 20px 0;">
-  <!-- Normal Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=blue&no-frame=true&no-bg=true&margin-w=4&column=8" 
-       alt="GitHub Trophies"
-       style="height: 150px; margin: 10px;" />
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<!-- Row 1: Stats + Streak -->
-<div align="center">
-  <img height="250em" width="500em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArshiBansal&theme=aura" />
-  <img height="250em" width="500em" src="https://streak-stats.demolab.com?user=ArshiBansal&theme=aura&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
-</div>
-
-<!-- Row 2: Top Languages (larger) -->
-<div align="center">
-  <img height="250em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-   <img height="250em" width="500em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArshiBansal&theme=aura&utcOffset=8"/>
-</div>
-
-
----
-
 ## 🎯 Current Focus
 
 <table width="100%" align="center">
@@ -156,6 +128,33 @@
 </table>
 
 ---
+
+## GitHub Achievements 
+
+<div align="center" style="margin: 20px 0;">
+  <!-- Normal Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=blue&no-frame=true&no-bg=true&margin-w=4&column=8" alt="GitHub Trophies"style="height: 150px; margin: 10px;" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<!-- Row 1: Stats + Streak -->
+<div align="center">
+  <img height="250em" width="400em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArshiBansal&theme=aura" />
+  <img height="250em" width="400em" src="https://streak-stats.demolab.com?user=ArshiBansal&theme=aura&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+</div>
+
+<!-- Row 2: Top Languages (larger) -->
+<div align="center">
+  <img height="250em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+   <img height="250em" width="400em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArshiBansal&theme=aura&utcOffset=8"/>
+</div>
+
+
+---
+
 
 ## 🔮 Future Scope
 

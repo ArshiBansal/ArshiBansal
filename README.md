@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hello+World!+I'm+Arshi+Bansal&repeat=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hello+World!+I'm+Arshi+Bansal&repeat=once" alt="Typing SVG" />
 </div>
 
 ---
@@ -117,37 +117,39 @@
 
 ## 📊 GitHub Analytics
 
+<!-- Row 1: Stats + Streak -->
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=ArshiBansal&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+  <img height="250em" width="500em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArshiBansal&theme=aura" />
+  <img height="250em" width="500em" src="https://streak-stats.demolab.com?user=ArshiBansal&theme=aura&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
 </div>
 
+<!-- Row 2: Top Languages (larger) -->
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  <img height="250em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+   <img height="250em" width="500em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArshiBansal&theme=aura&utcOffset=8"/>
 </div>
+
 
 ---
 
 ## 🎯 Current Focus
 
-<table>
+<table width="100%" align="center">
   <tr>
     <!-- Left Side: Image -->
-    <td width="40%" align="center">
-      <img src="https://i.pinimg.com/736x/44/20/a6/4420a60b1a168f37323aefc7a64de5f1.jpg" width="220px" alt="AI Learning"/>
+    <td width="50%" align="center">
+      <img src="https://i.pinimg.com/736x/ab/a9/41/aba94111afe833e42a9dd5905dbeb565.jpg" width="350px" height="300px" alt="AI Learning"/>
     </td>    
     <!-- Right Side: Text -->
-    <td width="60%" valign="top">
-      <ul>
-        <li>📘 Learning and implementing <b>Machine Learning Algorithms</b></li>
-        <li>🤖 Exploring <b>Artificial Intelligence</b> and <b>Deep Learning</b> concepts</li>
-        <li>📊 Strengthening <b>Data Science</b> and <b>Data Visualization</b> skills</li>
-        <li>🌐 Developing <b>Full-Stack Projects</b> with <b>Spring Boot</b>, <b>Django</b>, and <b>FastAPI</b></li>
-        <li>🚀 Practicing <b>Model Deployment</b> and <b>API Integration</b></li>
-        <li>💡 Expanding expertise in <b>Scalable Backend Systems</b></li>
-        <li>🛠️ Continuously experimenting with <b>cutting-edge technologies</b></li>
+    <td width="50%" valign="top">
+      <ul><br>
+        <li>(^_^) Learning and implementing <b>Machine Learning Algorithms</b></li>
+        <li>(o_o) Exploring <b>Artificial Intelligence</b> and <b>Deep Learning</b> concepts</li>
+        <li>(¬_¬) Strengthening <b>Data Science</b> and <b>Data Visualization</b> skills</li>
+        <li>(^.^) Developing <b>Full-Stack Projects</b> with <b>Spring Boot</b>, <b>Django</b>, and <b>FastAPI</b></li>
+        <li>(>_<) Practicing <b>Model Deployment</b> and <b>API Integration</b></li>
+        <li>(^o^) Expanding expertise in <b>Scalable Backend Systems</b></li>
+        <li>(¬‿¬) Continuously experimenting with <b>cutting-edge technologies</b></li>
       </ul>
     </td>
   </tr>
@@ -155,23 +157,31 @@
 
 ---
 
-## 🔮 Future Scope  
+<br><br>
+<h2 align="center" style="color:#00BFFF; font-size:28px;">🔮 Future Scope</h2>
 
-<ul>
-  <li>🤖 Diving deeper into <b>advanced ML</b> areas like <b>Generative AI</b>, <b>Reinforcement Learning</b>, and <b>Graph Neural Networks</b></li>
-  <li>⚛️ Exploring the intersection of <b>AI with emerging technologies</b> such as <b>Quantum Computing</b> and <b>Edge AI</b></li>
-  <li>🌱 Contributing actively to <b>open-source projects</b> and collaborating with global developer communities</li>
-  <li>🏥 Applying AI for <b>social good</b> in fields like <b>healthcare</b>, <b>education</b>, and <b>sustainability</b></li>
-  <li>🌍 Working towards <b>AI solutions</b> that address climate change, renewable energy, and resource optimization</li>
-  <li>🧑‍🏫 Mentoring and guiding <b>aspiring data scientists</b> to foster a culture of learning and innovation</li>
-  <li>🚀 Building <b>scalable, production-ready AI systems</b> integrated with cloud platforms and real-world applications</li>
-  <li>💡 Continuously innovating at the crossroads of <b>AI, full-stack development</b>, and <b>data-driven decision making</b></li>
-</ul>
+<table align="center" width="100%" style="height:600px;">
+  <tr>
+    <!-- Left Side: Text -->
+    <td width="50%" valign="top" style="line-height:2.2em; color:#1E90FF; font-size:18px; padding-right:20px;">
+      <ul>
+        <li>(>_>) Diving deeper into <b>advanced ML</b> areas like <b>Generative AI</b>, <b>Reinforcement Learning</b>, and <b>Graph Neural Networks</b></li>
+        <li>(^.^) Exploring the intersection of <b>AI with emerging technologies</b> such as <b>Quantum Computing</b> and <b>Edge AI</b></li>
+        <li>(*.*) Contributing actively to <b>open-source projects</b> and collaborating with global developer communities</li>
+        <li>(o_O) Applying AI for <b>social good</b> in fields like <b>healthcare</b>, <b>education</b>, and <b>sustainability</b></li>
+        <li>(^o^) Working towards <b>AI solutions</b> that address climate change, renewable energy, and resource optimization</li>
+        <li>(>o<) Mentoring and guiding <b>aspiring data scientists</b> to foster a culture of learning and innovation</li>
+        <li>(¬‿¬) Building <b>scalable, production-ready AI systems</b> integrated with cloud platforms and real-world applications</li>
+        <li>(^_~) Continuously innovating at the crossroads of <b>AI, full-stack development</b>, and <b>data-driven decision making</b></li>
+      </ul>
+    </td>
+    <!-- Right Side: Image -->
+    <td width="50%" align="center" valign="top"><br><br>
+      <img src="https://i.pinimg.com/736x/11/8d/de/118dde33b24eb5a7920907a8196efdd6.jpg" width="300px" height="300px" alt="AI Learning"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
-
-## Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-</div>

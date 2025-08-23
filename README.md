@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hello+World!+I'm+Arshi+Bansal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hello+World!+I'm+Arshi+Bansal&repeat=false" alt="Typing SVG" />
 </div>
 
 ---
@@ -106,8 +106,11 @@
 
 ## GitHub Achievements 
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=blue&no-frame=true&no-bg=true&margin-w=4&column=8" />
+<div align="center" style="margin: 20px 0;">
+  <!-- Normal Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=blue&no-frame=true&no-bg=true&margin-w=4&column=8" 
+       alt="GitHub Trophies"
+       style="height: 150px; margin: 10px;" />
 </div>
 
 ---

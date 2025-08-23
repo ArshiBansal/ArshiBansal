@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hello+World!+I'm+Arshi+Bansal&repeat=once" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hello+World!+I'm+Arshi+Bansal&repeat=twice" alt="Typing SVG" />
 </div>
 
 ---
@@ -157,8 +157,7 @@
 
 ---
 
-<br><br>
-<h2 align="center" style="color:#00BFFF; font-size:28px;">🔮 Future Scope</h2>
+## 🔮 Future Scope
 
 <table align="center" width="100%" style="height:600px;">
   <tr>

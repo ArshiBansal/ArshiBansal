@@ -14,97 +14,92 @@
 
 ## 👨‍💻 About Me
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
   <tr>
     <!-- Text Column -->
-    <td width="50%" valign="top" style="padding-right: 20px; line-height: 1.6; font-family: Arial, sans-serif;">
-      - 🎓 Hi! I'm <b>Arshi Bansal</b>, currently pursuing a <b>B.Tech in Computer Science</b> <br>
-      - 📊 Passionate about <b>Data Science</b>, <b>Artificial Intelligence 🤖</b>, and <b>Machine Learning</b> <br>
-      - 🌐 Love working on <b>Full-Stack Web Development</b> — blending smart algorithms with seamless user experiences <br>
-      - 💻 Proficient in <b>Java</b> and <b>Python</b>, building projects that bring ideas to life <br>
-      - 🧠 Enthusiastic about building <b>predictive models</b>, analyzing <b>large datasets</b>, and applying <b>AI/ML algorithms</b> to solve real-world problems <br>
-      - 📈 Exploring <b>data visualization</b> and <b>statistical analysis</b> to communicate insights effectively <br>
-      - 😅 Debugging can be tricky sometimes (^_^) but rewarding! <br>
-      - 🤓 Late-night coding sessions often look like this (o_o) but ideas keep flowing <br>
-      - 😎 Coffee in one hand, keyboard in the other (¬_¬) — productivity mode ON! <br>
-      - 🚀 Motto: <i>"Keep coding, keep innovating! Let’s build the future together!"</i> <br>
-      - 🐧 Fun fact: I use <b>Windows</b> btw (•_•) <br>
-      - ☕ Coffee fuels my coding sessions — nothing beats a good cup while brainstorming ideas! (◕‿◕) <br>
-      - 🎧 Most likely listening to <b>music 🎶</b> while coding — because good music makes good code! (>_>) <br><br>
-      <b>🔗 Find Me Online</b><br>
+    <td width="50%" valign="top" style="padding: 20px; line-height: 1.6; font-family: Arial, sans-serif;"><br><br><br>
+      <p>
+        - 🎓 Currently pursuing a <b>B.Tech in Computer Science</b> <br>
+        - 📊 Passionate about <b>Data Science</b>, <b>Artificial Intelligence 🤖</b>, and <b>Machine Learning</b> <br>
+        - 🌐 Love working on <b>Full-Stack Web Development</b> — blending smart algorithms with seamless user experiences <br>
+        - 💻 Proficient in <b>Java</b> and <b>Python</b>, building projects that bring ideas to life <br>
+        - 🧠 Enthusiastic about building <b>predictive models</b>, analyzing <b>large datasets</b>, and applying <b>AI/ML algorithms</b> to solve real-world problems <br>
+        - 📈 Exploring <b>data visualization</b> and <b>statistical analysis</b> to communicate insights effectively <br>
+        - 😅 Debugging can be tricky sometimes (^_^) but rewarding! <br>
+        - 🤓 Late-night coding sessions often look like this (o_o) but ideas keep flowing <br>
+        - 🚀 Motto: <i>"Keep coding, keep innovating! Let’s build the future together!"</i> <br>
+        - ☕ Coffee fuels my coding sessions (¬_¬) — nothing beats a good cup while brainstorming ideas! (◕‿◕) <br>
+        - 🎧 Most likely listening to <b>music (•_•)</b> while coding — because good music makes good code! (>_>)
+      </p>
+      <b>🔗 Find Me Online</b>
       <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-        <a href="mailto:cold12coffe@gmail.com" style="text-decoration: none; background-color: #00D9FF; color: white; padding: 8px 20px; border-radius: 50px; font-weight: bold;">Email</a>
-        <a href="https://x.com/arshi8050121375" style="text-decoration: none; background-color: #1DA1F2; color: white; padding: 8px 20px; border-radius: 50px; font-weight: bold;">Twitter</a>
-        <a href="https://www.linkedin.com/in/arshi-bansal-7a843736a/" style="text-decoration: none; background-color: #0A66C2; color: white; padding: 8px 20px; border-radius: 50px; font-weight: bold;">LinkedIn</a>
-        <a href="https://github.com/ArshiBansal" style="text-decoration: none; background-color: #171515; color: white; padding: 8px 20px; border-radius: 50px; font-weight: bold;">GitHub</a>
-        <a href="https://www.instagram.com/only_brewed_coffee/" style="text-decoration: none; background-color: #C13584; color: white; padding: 8px 20px; border-radius: 50px; font-weight: bold;">Instagram</a>
-        <a href="https://leetcode.com/u/arshi_bansal/" style="text-decoration: none; background-color: #FFA116; color: white; padding: 8px 20px; border-radius: 50px; font-weight: bold;">LeetCode</a>
+        <a href="mailto:cold12coffe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"></a>
+        <a href="https://x.com/arshi8050121375"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40"></a>
+        <a href="https://www.linkedin.com/in/arshi-bansal-7a843736a/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"></a>
+        <a href="https://github.com/ArshiBansal"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"></a>
+        <a href="https://www.instagram.com/only_brewed_coffee/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"></a>
+        <a href="https://www.leetcode.com/arshi_bansal_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"></a>
+        <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" height="40"></a>
+        <a href="https://stackoverflow.com/"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="40" height="40"></a>
+        <a href="https://www.hackerrank.com/pratapsingh07017" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40"></a>
       </div>
     </td>
     <!-- Image Column -->
-    <td width="50%" valign="top" style="text-align: center;">
+    <td width="50%" valign="top" style="text-align: center; padding: 20px;">
       <img src="https://i.pinimg.com/736x/40/c2/52/40c252e7896e3065a2777c46d1a6df8b.jpg" alt="Profile Image" style="width: 100%; max-width: 500px; border-radius: 15px;"/>
     </td>
   </tr>
 </table>
 
+
 ---
 
 ## 💻 Tech Stack
 
-### 📝 Programming Languages
+### (^_^) Programming Languages  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,php" /></a>
 </p>
 
-### 🌐 Web Development & Frameworks
+### (o_o) Frontend Development  
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" /></a>
 </p>
 
-### 🗄️ Databases
+### (¬_¬) Backend Development / Frameworks  
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=django,fastapi,flask,spring" /></a>
 </p>
 
-### 📚 Libraries & Frameworks
+### (•‿•) Databases  
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-0769AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /></a>
 </p>
 
-### 📊 Data Visualization & BI Tools
+### (◕‿◕) Tools & Platforms  
 <p align="center">
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux,vercel" /></a>
 </p>
 
-### 🛠️ Version Control & Tools
+### (✿◠‿◠) Data Science / ML Libraries  
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
+  <a href="#"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
+  <a href="#"><img src="https://matplotlib.org/_static/images/documentation.svg" alt="Matplotlib" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="Scikit-Learn" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-dark.svg" alt="PyTorch" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="XGBoost" width="40" height="40"/></a>
+  <a href="#"><img src="https://python-visualization.github.io/folium/_static/folium_logo.png" alt="Folium" width="40" height="40"/></a>
+  <a href="#"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/></a>
+</p>
+
+### (ಠ_ಠ) Data Visualization & BI Tools  
+<p align="center">
+  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" /></a>
+  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
 </p>
 
 ---

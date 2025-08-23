@@ -54,36 +54,36 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack<br>
 
-### (^_^) Programming Languages  
+### (^_^) Programming Languages  <br>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,php" /></a>
-</p>
+ <br> <a href="#"><img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,php" /></a>
+</p><br>
 
-### (o_o) Frontend Development  
+### (o_o) Frontend Development  <br>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" /></a>
-</p>
+  <br><a href="#"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" /></a>
+</p><br>
 
-### (¬_¬) Backend Development / Frameworks  
+### (¬_¬) Backend Development / Frameworks  <br>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=django,fastapi,flask,spring" /></a>
-</p>
+ <br> <a href="#"><img src="https://skillicons.dev/icons?i=django,fastapi,flask,spring" /></a>
+</p><br>
 
-### (•‿•) Databases  
+### (•‿•) Databases  <br>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /></a>
-</p>
+<br>  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /></a>
+</p><br>
 
-### (◕‿◕) Tools & Platforms  
+### (◕‿◕) Tools & Platforms  <br>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux,vercel" /></a>
-</p>
+<br>  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux,vercel" /></a>
+</p><br>
 
-### (✿◠‿◠) Data Science / ML Libraries  
+### (✿◠‿◠) Data Science / ML Libraries  <br>
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+<br>  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
   <a href="#"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
   <a href="#"><img src="https://matplotlib.org/_static/images/documentation.svg" alt="Matplotlib" width="40" height="40"/></a>
@@ -93,22 +93,22 @@
   <a href="#"><img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="XGBoost" width="40" height="40"/></a>
   <a href="#"><img src="https://python-visualization.github.io/folium/_static/folium_logo.png" alt="Folium" width="40" height="40"/></a>
   <a href="#"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/></a>
-</p>
+</p><br>
 
-### (ಠ_ಠ) Data Visualization & BI Tools  
+### (ಠ_ಠ) Data Visualization & BI Tools  <br>
 <p align="center">
-  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" /></a>
+<br>  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" /></a>
   <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
 </p>
 
 ---
 
-## GitHub Achievements  
+## GitHub Achievements 
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=blue&no-frame=true&no-bg=true&margin-w=4&column=8" />
 </div>
-
 
 ---
 

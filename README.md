@@ -17,7 +17,7 @@
 <table width="100%" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
   <tr>
     <!-- Text Column -->
-    <td width="50%" valign="top" style="padding: 20px; line-height: 1.6; font-family: Arial, sans-serif;"><br><br><br>
+    <td width="50%" valign="top" style="padding: 20px; line-height: 1.6; font-family: Arial, sans-serif;"><br><br>
       <p>
         - 🎓 Currently pursuing a <b>B.Tech in Computer Science</b> <br>
         - 📊 Passionate about <b>Data Science</b>, <b>Artificial Intelligence 🤖</b>, and <b>Machine Learning</b> <br>
@@ -149,12 +149,9 @@
 <!-- Row 2: Top Languages (larger) -->
 <div align="center">
   <img height="250em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-   <img height="250em" width="400em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArshiBansal&theme=aura&utcOffset=8"/>
 </div>
 
-
 ---
-
 
 ## 🔮 Future Scope
 

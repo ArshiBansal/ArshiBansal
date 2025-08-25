@@ -142,13 +142,14 @@
 
 <!-- Row 1: Stats + Streak -->
 <div align="center">
-  <img height="250em" width="400em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArshiBansal&theme=aura" />
-  <img height="250em" width="400em" src="https://streak-stats.demolab.com?user=ArshiBansal&theme=aura&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArshiBansal&theme=aura" height="200em"/>
+  <img src="https://streak-stats.demolab.com?user=ArshiBansal&theme=aura&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="200em"/>
 </div>
 
-<!-- Row 2: Top Languages (larger) -->
+<!-- Row 2: Top Languages + Profile Summary -->
 <div align="center">
-  <img height="250em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="200em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArshiBansal&theme=aura" height="200em"/>
 </div>
 
 ---

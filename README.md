@@ -141,13 +141,13 @@
 ## 📊 GitHub Analytics
 
 <!-- Row 1: Stats + Streak -->
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArshiBansal&theme=aura" height="200em"/>
   <img src="https://streak-stats.demolab.com?user=ArshiBansal&theme=aura&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="200em"/>
 </div>
 
 <!-- Row 2: Top Languages + Profile Summary -->
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="200em"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArshiBansal&theme=aura" height="200em"/>
 </div>

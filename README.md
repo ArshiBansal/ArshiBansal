@@ -148,8 +148,11 @@
 
 <!-- Row 2: Top Languages + Profile Summary -->
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="200em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArshiBansal&theme=aura" height="200em"/>
+  <!-- Top Languages (wider) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" height="220em" width="380em"/>
+  
+  <!-- Profile Summary (narrower) -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArshiBansal&theme=aura" height="220em" width="420em"/>
 </div>
 
 ---

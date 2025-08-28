@@ -132,26 +132,22 @@
 ## GitHub Achievements 
 
 <div align="center" style="margin: 20px 0;">
-  <!-- Normal Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=blue&no-frame=true&no-bg=true&margin-w=4&column=8" alt="GitHub Trophies"style="height: 150px; margin: 10px;" />
+  <img src="https://github-trophies.vercel.app/?username=ArshiBansal&theme=night&no-frame=true&no-bg=true&column=8" alt="GitHub Trophies" ... />
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<!-- Row 1: Stats + Streak -->
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArshiBansal&theme=aura" height="200em"/>
-  <img src="https://streak-stats.demolab.com?user=ArshiBansal&theme=aura&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="200em"/>
-</div>
 
-<!-- Row 2: Top Languages + Profile Summary -->
+ <img src="https://github-readme-streak-stats-eight.vercel.app?user=ArshiBansal&theme=aura&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="200em"/>
+  </div>
+
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <!-- Top Languages (wider) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" height="220em" width="380em"/>
-  
-  <!-- Profile Summary (narrower) -->
+
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArshiBansal&theme=aura" height="220em" width="420em"/>
 </div>
 
@@ -161,7 +157,6 @@
 
 <table align="center" width="100%" style="height:600px;">
   <tr>
-    <!-- Left Side: Text -->
     <td width="50%" valign="top" style="line-height:2.2em; color:#1E90FF; font-size:18px; padding-right:20px;">
       <ul>
         <li>(>_>) Diving deeper into <b>advanced ML</b> areas like <b>Generative AI</b>, <b>Reinforcement Learning</b>, and <b>Graph Neural Networks</b></li>
@@ -173,8 +168,7 @@
         <li>(¬‿¬) Building <b>scalable, production-ready AI systems</b> integrated with cloud platforms and real-world applications</li>
         <li>(^_~) Continuously innovating at the crossroads of <b>AI, full-stack development</b>, and <b>data-driven decision making</b></li>
       </ul>
-    </td>
-    <!-- Right Side: Image -->
+        </td>
     <td width="50%" align="center" valign="top"><br><br>
       <img src="https://i.pinimg.com/736x/11/8d/de/118dde33b24eb5a7920907a8196efdd6.jpg" width="300px" height="300px" alt="AI Learning"/>
     </td>

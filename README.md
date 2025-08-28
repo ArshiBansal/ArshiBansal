@@ -131,8 +131,8 @@
 
 ## GitHub Achievements 
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-trophies.vercel.app/?username=ArshiBansal&theme=night&no-frame=true&no-bg=true&column=8" alt="GitHub Trophies" ... />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=night&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---

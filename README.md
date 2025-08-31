@@ -139,16 +139,15 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <!-- First row: force both in one line -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArshiBansal&theme=aura" height="200em"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ArshiBansal&theme=aura&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="240em" width="360em"/>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- First row -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=aura&hide_border=true" height="220" width="380"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiBansal&theme=aura&hide_border=true" height="220" width="380"/>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Second row -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" height="220em" width="380em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArshiBansal&theme=aura" height="280em" width="420em"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&langs_count=10&theme=aura&hide_border=true" height="220" width="380"/>
 </div>
 
 ---

@@ -61,14 +61,9 @@
  <br> <a href="#"><img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,php" /></a>
 </p><br>
 
-### (o_o) Frontend Development  <br>
+### (o_o) Frontend Development and Backend Development <br>
 <p align="center">
-  <br><a href="#"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" /></a>
-</p><br>
-
-### (¬_¬) Backend Development / Frameworks  <br>
-<p align="center">
- <br> <a href="#"><img src="https://skillicons.dev/icons?i=django,fastapi,flask,spring" /></a>
+  <br><a href="#"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,django,fastapi,flask,spring" /></a>
 </p><br>
 
 ### (•‿•) Databases  <br>
@@ -81,7 +76,7 @@
 <br>  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux,vercel" /></a>
 </p><br>
 
-### (✿◠‿◠) Data Science / ML Libraries  <br>
+### (◠‿◠) Data Science / ML Libraries  <br>
 <p align="center">
 <br>  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>

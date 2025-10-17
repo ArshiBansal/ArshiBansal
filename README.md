@@ -4,10 +4,16 @@
 
 ---
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <!-- Typing Text on Left -->
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=7AF79A&center=false&vCenter=true&width=850&lines=I'm+studying+Data+Analysis;Learning+about+Business+Analysis;Interest+in+Databases;Focused+to+learn+ML+and+AI;Welcome+to+my+Github" alt="Typing SVG">
+    </a>
+    <!-- GIF on Right -->
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Coder GIF">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=7AF79A&center=true&vCenter=true&width=650&lines=I'm+a+Data+Analyst;Also+focusing+on+AI%2FML;Trying+to+learn+Fullstack;Welcome+to+my+Github)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120">
-
+  </div>
 </div>
 
 ---
@@ -20,16 +26,17 @@
     <td width="50%" valign="top" style="padding: 20px; line-height: 1.6; font-family: Arial, sans-serif;"><br><br>
       <p>
         - 🎓 Currently pursuing a <b>B.Tech in Computer Science</b> <br>
-        - 📊 Passionate about <b>Data Science</b>, <b>Artificial Intelligence 🤖</b>, and <b>Machine Learning</b> <br>
-        - 🌐 Love working on <b>Full-Stack Web Development</b> — blending smart algorithms with seamless user experiences <br>
-        - 💻 Proficient in <b>Java</b> and <b>Python</b>, building projects that bring ideas to life <br>
-        - 🧠 Enthusiastic about building <b>predictive models</b>, analyzing <b>large datasets</b>, and applying <b>AI/ML algorithms</b> to solve real-world problems <br>
-        - 📈 Exploring <b>data visualization</b> and <b>statistical analysis</b> to communicate insights effectively <br>
-        - 😅 Debugging can be tricky sometimes (^_^) but rewarding! <br>
-        - 🤓 Late-night coding sessions often look like this (o_o) but ideas keep flowing <br>
-        - 🚀 Motto: <i>"Keep coding, keep innovating! Let’s build the future together!"</i> <br>
-        - ☕ Coffee fuels my coding sessions (¬_¬) — nothing beats a good cup while brainstorming ideas! (◕‿◕) <br>
-        - 🎧 Most likely listening to <b>music (•_•)</b> while coding — because good music makes good code! (>_>)
+        - 📊 Passionate about <b>Data Science</b>, <b>Business Analysis</b>, and exploring how data shapes intelligent decision-making <br>
+        - 💼 Focused on applying <b>Business Analysis</b> principles to bridge the gap between data insights and strategic goals <br>
+        - 🧠 Interested in <b>Artificial Intelligence 🤖</b> and <b>Machine Learning</b> — building predictive models and uncovering data patterns <br>
+        - 🗃️ Skilled in working with <b>SQL</b> and <b>Relational Databases</b> for data extraction, transformation, and analysis <br>
+        - 📈 Enthusiastic about <b>data visualization</b> and <b>statistical analysis</b> to communicate findings clearly and effectively <br>
+        - 💻 Proficient in <b>Python</b> and <b>Java</b>, leveraging tools like <b>Pandas</b>, <b>NumPy</b>, and <b>Matplotlib</b> for analytics <br>
+        - 🧩 Love solving analytical problems, finding patterns, and transforming raw data into actionable insights <br>
+        - 😅 Debugging and data cleaning can be challenging sometimes (^_^) but always rewarding! <br>
+        - ☕ Fueled by coffee (¬_¬) — because great ideas often come with a good brew ☕ <br>
+        - 🎧 Often analyzing data with some good <b>music (•_•)</b> in the background — it keeps the focus sharp! (>_>) <br>
+        - 🚀 Motto: <i>"Analyze. Learn. Innovate. Let data drive the future!"</i>
       </p>
       <b>🔗 Find Me Online</b>
       <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
@@ -111,14 +118,14 @@
     <td width="50%" valign="top">
       <ul><br>
         <li>(^_^) Learning and implementing <b>Machine Learning Algorithms</b></li>
-        <li>(o_o) Exploring <b>Artificial Intelligence</b> and <b>Deep Learning</b> concepts</li>
-        <li>(¬_¬) Strengthening <b>Data Science</b> and <b>Data Visualization</b> skills</li>
-        <li>(^.^) Developing <b>Full-Stack Projects</b> with <b>Spring Boot</b>, <b>Django</b>, and <b>FastAPI</b></li>
-        <li>(>_<) Practicing <b>Model Deployment</b> and <b>API Integration</b></li>
-        <li>(^o^) Expanding expertise in <b>Scalable Backend Systems</b></li>
-        <li>(¬‿¬) Continuously experimenting with <b>cutting-edge technologies</b></li>
+        <li>(o_o) Exploring <b>Artificial Intelligence (AI)</b> concepts and applications</li>
+        <li>(¬_¬) Strengthening <b>Data Analysis</b> and <b>Business Analysis</b> skills</li>
+        <li>(>_<) Gaining hands-on experience with <b>ETL/ELT processes</b> and <b>Informatica</b></li>
+        <li>(^o^) Practicing <b>data integration</b> and <b>workflow automation</b> for real-world datasets</li>
+        <li>(¬‿¬) Continuously experimenting with <b>cutting-edge AI/ML and data analytics tools</b></li>
       </ul>
     </td>
+
   </tr>
 </table>
 

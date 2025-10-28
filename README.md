@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hello+World!+I'm+Arshi+Bansal&repeat=twice" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/ArshiBansal">
+    <img src="https://komarev.com/ghpvc/?username=ArshiBansal&label=✨%20Profile%20Views%20✨&color=6A5ACD&style=for-the-badge" alt="profile views" />
+  </a>
+</div>
+
 ---
 
 <div align="center">

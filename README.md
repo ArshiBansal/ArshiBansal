@@ -149,13 +149,19 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- First row -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=aura&hide_border=true" height="220" width="380"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiBansal&theme=aura&hide_border=true" height="220" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=aura&hide_border=true" height="320" width="380"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiBansal&theme=aura&hide_border=true" height="320" width="380"/>
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Second row -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&langs_count=10&theme=aura&hide_border=true" height="220" width="380"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&langs_count=10&theme=aura&hide_border=true" height="320" width="380"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiBansal&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
 
 ---

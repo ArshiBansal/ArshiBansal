@@ -76,12 +76,12 @@
 
 ### (o_o) Frontend Development and Backend Development <br>
 <p align="center">
-  <br><a href="#"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,django,fastapi,flask,spring" /></a>
+  <br><a href="#"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,fastapi,flask" /></a>
 </p><br>
 
 ### (•‿•) Databases  <br>
 <p align="center">
-<br>  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /></a>
+<br>  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres" /></a>
 </p><br>
 
 ### (◕‿◕) Tools & Platforms  <br>

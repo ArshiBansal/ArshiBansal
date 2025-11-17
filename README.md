@@ -11,8 +11,9 @@
 ---
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=7AF79A&center=false&vCenter=true&width=850&lines=I'm+studying+Data+Analysis;Learning+about+Business+Analysis;Interest+in+Databases;Focused+to+learn+ML+and+AI;Welcome+to+my+Github" alt="Typing SVG"></a>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Coder GIF">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=7AF79A&center=true&vCenter=true&width=850&lines=I'm+studying+Data+Analysis;Learning+about+Business+Analysis;Interest+in+Databases;Focused+to+learn+ML+and+AI;Welcome+to+my+Github" alt="Typing SVG">
+  </a>
 </p>
 
 ---

@@ -10,17 +10,24 @@
 
 ---
 
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <!-- Typing Text on Left -->
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=7AF79A&center=false&vCenter=true&width=850&lines=I'm+studying+Data+Analysis;Learning+about+Business+Analysis;Interest+in+Databases;Focused+to+learn+ML+and+AI;Welcome+to+my+Github" alt="Typing SVG">
-    </a>
-    <!-- GIF on Right -->
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Coder GIF">
+<div style="
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  white-space: nowrap;
+">
+  
+  <!-- Typing Text on Left -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=7AF79A&center=false&vCenter=true&width=850&lines=I'm+studying+Data+Analysis;Learning+about+Business+Analysis;Interest+in+Databases;Focused+to+learn+ML+and+AI;Welcome+to+my+Github" alt="Typing SVG">
+  </a>
 
-  </div>
+  <!-- GIF on Right -->
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Coder GIF">
+
 </div>
+
 
 ---
 

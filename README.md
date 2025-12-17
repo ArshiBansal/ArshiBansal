@@ -3,9 +3,12 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ArshiBansal">
-    <img src="https://komarev.com/ghpvc/?username=ArshiBansal&label=✨%20PROFILE%20VIEWS%20✨&labelColor=F8C8DC&color=E0C3FF&style=for-the-badge" alt="profile views">
-  </a>
+<a href="https://github.com/ArshiBansal">
+  <img
+    src="https://komarev.com/ghpvc/?username=ArshiBansal&label=✨%20PROFILE%20VIEWS%20✨&labelColor=7E57C2&color=7E57C2&style=for-the-badge"
+    alt="profile views"
+  >
+</a>
 </div>
 
 ---
@@ -198,10 +201,12 @@
         <li>(>o<) Mentoring and guiding <b>aspiring data scientists</b> to foster a culture of learning and innovation</li>
         <li>(¬‿¬) Building <b>scalable, production-ready AI systems</b> integrated with cloud platforms and real-world applications</li>
         <li>(^_~) Continuously innovating at the crossroads of <b>AI, full-stack development</b>, and <b>data-driven decision making</b></li>
+          <br>
       </ul>
         </td>
     <td width="50%" align="center" valign="top"><br><br>
       <img src="https://i.pinimg.com/736x/f0/88/ac/f088ac16f22616b41992fadfdf6b7286.jpg" width="300px" height="300px" alt="AI Learning"/>
+      <br>
     </td>
   </tr>
 </table>

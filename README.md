@@ -25,18 +25,17 @@
     <!-- Text Column -->
     <td width="50%" valign="top" style="padding: 20px; line-height: 1.6; font-family: Arial, sans-serif;"><br><br>
       <p>
-        - 🎓 Currently pursuing a <b>B.Tech in Computer Science</b> <br>
-        - 📊 Passionate about <b>Data Science</b>, <b>Business Analysis</b>, and exploring how data shapes intelligent decision-making <br>
-        - 💼 Focused on applying <b>Business Analysis</b> principles to bridge the gap between data insights and strategic goals <br>
-        - 🧠 Interested in <b>Artificial Intelligence 🤖</b> and <b>Machine Learning</b> — building predictive models and uncovering data patterns <br>
-        - 🗃️ Skilled in working with <b>SQL</b> and <b>Relational Databases</b> for data extraction, transformation, and analysis <br>
-        - 📈 Enthusiastic about <b>data visualization</b> and <b>statistical analysis</b> to communicate findings clearly and effectively <br>
-        - 💻 Proficient in <b>Python</b> and <b>Java</b>, leveraging tools like <b>Pandas</b>, <b>NumPy</b>, and <b>Matplotlib</b> for analytics <br>
-        - 🧩 Love solving analytical problems, finding patterns, and transforming raw data into actionable insights <br>
-        - 😅 Debugging and data cleaning can be challenging sometimes (^_^) but always rewarding! <br>
-        - ☕ Fueled by coffee (¬_¬) — because great ideas often come with a good brew ☕ <br>
-        - 🎧 Often analyzing data with some good <b>music (•_•)</b> in the background — it keeps the focus sharp! (>_>) <br>
-        - 🚀 Motto: <i>"Analyze. Learn. Innovate. Let data drive the future!"</i>
+        - 🎓 Pursuing a <b>B.Tech in Computer Science</b> with a solid foundation in algorithms, data structures, and computational logic (^‿^) <br>
+        - 📊 Passionate about <b>Predictive Analytics</b> and <b>Data Science</b>, transforming complex datasets into intelligent, data-driven strategies (•̀ᴗ•́)و <br>
+        - 💼 Focused on <b>Business Analysis</b>, bridging the gap between technical insights and strategic objectives for measurable impact (¬‿¬) <br>
+        - 🧠 Deeply interested in <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Neural Networks</b> to build advanced predictive systems (ʘ‿ʘ) <br>
+        - 🗄️ Skilled in <b>SQL</b> and <b>Relational Databases</b> for streamlined data extraction, transformation, and high-performance analysis (⌐■_■) <br>
+        - 📐 Experienced in <b>Statistical Analysis</b> and <b>Feature Engineering</b> to uncover hidden patterns and meaningful trends (ಠ‿ಠ) <br>
+        - 🐍 Proficient in <b>Python</b> and <b>Java</b>, utilizing <b>Pandas</b>, <b>NumPy</b>, and visualization libraries for end-to-end ML workflows (ᕙ(⇀‸↼‶)ᕗ) <br>
+        - 📈 Dedicated to <b>Data Visualization</b> and analytical storytelling to communicate complex findings to stakeholders clearly (•_•) <br>
+        - 🧩 Driven by complex problem-solving and the challenge of turning raw variables into actionable business intelligence (ง •̀_•́)ง <br>
+        - ⚙️ Adept at data cleaning, debugging, and <b>Model Optimization</b> to ensure reliable and scalable predictive solutions (≧◡≦) <br>
+        - 🎧 Often found architecting models and analyzing data with a lo-fi beat in the background to maintain focus and flow (☕_☕) <br>
       </p>
       <b>🔗 Find Me Online</b>
       <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
@@ -53,11 +52,11 @@
     </td>
     <!-- Image Column -->
     <td width="50%" valign="top" style="text-align: center; padding: 20px;">
-      <img src="https://i.pinimg.com/736x/40/c2/52/40c252e7896e3065a2777c46d1a6df8b.jpg" alt="Profile Image" style="width: 100%; max-width: 500px; border-radius: 15px;"/>
+      <br><br><br><br><br><br>
+      <img src="https://i.pinimg.com/736x/80/b3/ad/80b3add9ded7804d9c6aed182c1e9382.jpg" alt="Profile Image" style="width: 100%; max-width: 500px; border-radius: 15px;"/>
     </td>
   </tr>
 </table>
-
 
 ---
 

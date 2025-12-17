@@ -17,14 +17,14 @@
 </p>
 
 ---
-
-## 👨‍💻 About Me
-
 <table width="100%" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
   <tr>
-    <!-- Text Column -->
-    <td width="50%" valign="top" style="padding: 20px; line-height: 1.6; font-family: Arial, sans-serif;"><br><br>
-      <p>
+    <!-- Left Column -->
+    <td width="60%" valign="top" style="padding: 20px; font-family: Arial, sans-serif; line-height: 1.6; text-align: center;">
+      <br>
+      <b>About Me</b>
+      <br><br>
+      <p style="display: inline-block; text-align: left; margin: 0 auto;">
         - 🎓 Pursuing a <b>B.Tech in Computer Science</b> with a solid foundation in algorithms, data structures, and computational logic (^‿^) <br>
         - 📊 Passionate about <b>Predictive Analytics</b> and <b>Data Science</b>, transforming complex datasets into intelligent, data-driven strategies (•̀ᴗ•́)و <br>
         - 💼 Focused on <b>Business Analysis</b>, bridging the gap between technical insights and strategic objectives for measurable impact (¬‿¬) <br>
@@ -37,23 +37,25 @@
         - ⚙️ Adept at data cleaning, debugging, and <b>Model Optimization</b> to ensure reliable and scalable predictive solutions (≧◡≦) <br>
         - 🎧 Often found architecting models and analyzing data with a lo-fi beat in the background to maintain focus and flow (☕_☕) <br>
       </p>
+      <br><br>
       <b>🔗 Find Me Online</b>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-        <a href="mailto:cold12coffe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"></a>
-        <a href="https://x.com/arshi8050121375"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40"></a>
-        <a href="https://www.linkedin.com/in/arshi-bansal-7a843736a/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"></a>
-        <a href="https://github.com/ArshiBansal"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"></a>
-        <a href="https://www.instagram.com/only_brewed_coffee/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"></a>
-        <a href="https://www.leetcode.com/arshi_bansal_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"></a>
-        <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" height="40"></a>
-        <a href="https://stackoverflow.com/"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="40" height="40"></a>
-        <a href="https://www.hackerrank.com/pratapsingh07017" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40"></a>
+      <br><br>
+      <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+        <a href="mailto:cold12coffe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"></a>
+        <a href="https://x.com/arshi8050121375"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"></a>
+        <a href="https://www.linkedin.com/in/arshi-bansal-7a843736a/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"></a>
+        <a href="https://github.com/ArshiBansal"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"></a>
+        <a href="https://www.instagram.com/only_brewed_coffee/"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"></a>
+        <a href="https://www.leetcode.com/arshi_bansal_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"></a>
+        <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" width="40" height="40"></a>
+        <a href="https://stackoverflow.com/"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" height="40"></a>
+        <a href="https://www.hackerrank.com/pratapsingh07017" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"></a>
       </div>
     </td>
-    <!-- Image Column -->
-    <td width="50%" valign="top" style="text-align: center; padding: 20px;">
+    <!-- Right Column -->
+    <td width="40%" valign="top" style="padding: 20px; text-align: center;">
       <br><br><br><br><br><br>
-      <img src="https://i.pinimg.com/736x/80/b3/ad/80b3add9ded7804d9c6aed182c1e9382.jpg" alt="Profile Image" style="width: 100%; max-width: 500px; border-radius: 15px;"/>
+      <img src="https://i.pinimg.com/736x/80/b3/ad/80b3add9ded7804d9c6aed182c1e9382.jpg" alt="Profile Image" style="width: 100%; max-width: 500px; border-radius: 15px;">
     </td>
   </tr>
 </table>

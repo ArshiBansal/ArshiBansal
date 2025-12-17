@@ -49,7 +49,7 @@
         <a href="https://www.leetcode.com/arshi_bansal_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"></a>
         <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" width="40" height="40"></a>
         <a href="https://stackoverflow.com/"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" height="40"></a>
-        <a href="https://www.hackerrank.com/pratapsingh07017" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"></a>
+        <a href="https://www.hackerrank.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"></a>
       </div>
     </td>
     <!-- Right Column -->
@@ -62,40 +62,64 @@
 
 ---
 
-## 💻 Tech Stack<br>
+### (^_^) Programming Languages  
+<br>
 
-### (^_^) Programming Languages  <br>
 <p align="center">
- <br> <a href="#"><img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,php" /></a>
-</p><br>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="60" height="60" />
+</p>
 
-### (o_o) Frontend Development and Backend Development <br>
-<p align="center">
-  <br><a href="#"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,fastapi,flask" /></a>
-</p><br>
+<br>
 
-### (•‿•) Databases  <br>
+### (o_o) Frontend Development and Backend Development 
+<br>
 <p align="center">
-<br>  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres" /></a>
-</p><br>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="60" height="60"/>
+  <img src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg" width="60" height="60" />
+</p>
+
+<br>
+
+### (•‿•) Databases  
+<br>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
+  <img src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg" width="60" height="60" />
+</p>
+
+<br>
 
 ### (◕‿◕) Tools & Platforms  <br>
 <p align="center">
-<br>  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux,vercel" /></a>
-</p><br>
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" height="60" />  
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60" height="60" />  
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="60" height="60" />
+</p>
 
-### (◠‿◠) Data Science / ML Libraries  <br>
+<br>
+
+### (◠‿◠) Data Science / ML Libraries 
+<br>
 <p align="center">
-<br>  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
-  <a href="#"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-  <a href="#"><img src="https://matplotlib.org/_static/images/documentation.svg" alt="Matplotlib" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="Scikit-Learn" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-dark.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="XGBoost" width="40" height="40"/></a>
-  <a href="#"><img src="https://python-visualization.github.io/folium/_static/folium_logo.png" alt="Folium" width="40" height="40"/></a>
-  <a href="#"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/></a>
+  <img src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg" width="60" height="60"/>
+  <img src="https://devicon-website.vercel.app/api/numpy/original-wordmark.svg" width="60" height="60"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60" height="60"/>
+  <img src="https://matplotlib.org/_static/images/documentation.svg" alt="Matplotlib" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" width="60" height="60"/>
+  <img src="https://devicon-website.vercel.app/api/tensorflow/original-wordmark.svg" width="60" height="60"/>
+  <img src="https://devicon-website.vercel.app/api/pytorch/plain-wordmark.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="60" height="60"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/>
 </p><br>
 
 ### (ಠ_ಠ) Data Visualization & BI Tools  <br>
@@ -168,7 +192,6 @@
     <td width="50%" valign="top" style="line-height:2.2em; color:#1E90FF; font-size:18px; padding-right:20px;">
       <ul>
         <li>(>_>) Diving deeper into <b>advanced ML</b> areas like <b>Generative AI</b>, <b>Reinforcement Learning</b>, and <b>Graph Neural Networks</b></li>
-        <li>(^.^) Exploring the intersection of <b>AI with emerging technologies</b> such as <b>Quantum Computing</b> and <b>Edge AI</b></li>
         <li>(*.*) Contributing actively to <b>open-source projects</b> and collaborating with global developer communities</li>
         <li>(o_O) Applying AI for <b>social good</b> in fields like <b>healthcare</b>, <b>education</b>, and <b>sustainability</b></li>
         <li>(^o^) Working towards <b>AI solutions</b> that address climate change, renewable energy, and resource optimization</li>
@@ -178,7 +201,7 @@
       </ul>
         </td>
     <td width="50%" align="center" valign="top"><br><br>
-      <img src="https://i.pinimg.com/736x/11/8d/de/118dde33b24eb5a7920907a8196efdd6.jpg" width="300px" height="300px" alt="AI Learning"/>
+      <img src="https://i.pinimg.com/736x/f0/88/ac/f088ac16f22616b41992fadfdf6b7286.jpg" width="300px" height="300px" alt="AI Learning"/>
     </td>
   </tr>
 </table>

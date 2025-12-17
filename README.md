@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/ArshiBansal">
-    <img src="https://komarev.com/ghpvc/?username=ArshiBansal&label=✨%20Profile%20Views%20✨&color=6A5ACD&style=for-the-badge" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=ArshiBansal&label=✨%20PROFILE%20VIEWS%20✨&labelColor=F8C8DC&color=E0C3FF&style=for-the-badge" alt="profile views">
   </a>
 </div>
 
@@ -54,7 +54,7 @@
     </td>
     <!-- Right Column -->
     <td width="40%" valign="top" style="padding: 20px; text-align: center;">
-      <br><br><br><br><br><br>
+      <br><br><br><br><br><br><br><br>
       <img src="https://i.pinimg.com/736x/80/b3/ad/80b3add9ded7804d9c6aed182c1e9382.jpg" alt="Profile Image" style="width: 100%; max-width: 500px; border-radius: 15px;">
     </td>
   </tr>

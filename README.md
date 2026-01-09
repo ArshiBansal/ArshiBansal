@@ -1,66 +1,30 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img
-  src="https://i.pinimg.com/originals/6d/c3/3a/6dc33a2039fe8a7cd2f92dee2ad48148.gif"
-  width="150"
-  height="150"                                                              
-  align="left"
-  alt="Cute Cat Coding"
-/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=3800&pause=1000&color=00FFA4&center=false&vCenter=true&width=450&height=140&lines=Hey%2C+I'm+Arshi!"
-  align="right"
-  width="650"
-  alt="Hey, I'm Arshi!"
-/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
-<br clear="both"/>
-
 <div align="center">
-  <!-- 1. Profile Views (your original, kept as is) -->
-  <a href="https://github.com/ArshiBansal">
-    <img
-      src="https://komarev.com/ghpvc/?username=ArshiBansal&label=PROFILE%20VIEWS&color=7E57C2&style=for-the-badge"
-      alt="Profile Views"
-    />
-  </a>
-
-  <!-- 2. GitHub Followers (now in for-the-badge style, matching size/color vibe) -->
-  <a href="https://github.com/ArshiBansal?tab=followers">
-    <img 
-      src="https://img.shields.io/github/followers/ArshiBansal?label=Followers&logo=github&logoColor=white&color=7E57C2&style=for-the-badge" 
-      alt="GitHub followers"
-    >
-  </a>
-
-  <!-- 3. GitHub User's Stars (total from top 200 repos - for-the-badge style) -->
-  <a href="https://github.com/ArshiBansal?tab=repositories">
-    <img 
-      src="https://img.shields.io/github/stars/ArshiBansal?label=Stars&logo=github&logoColor=white&color=7E57C2&style=for-the-badge" 
-      alt="GitHub stars (top repos)"
-    >
-  </a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=880&height=220&multiline=true&repeat=false&lines=Modern+AI+Engineer+Starter+Pack;Me%3A+writes+3-line+prompt;Model%3A+existential+crisis+%F0%9F%92%80;Me+47+iterations+later%3A+please+just+act+normal+I%27m+begging+you+%F0%9F%98%AD" 
+    alt="Modern AI Engineer Starter Pack" 
+  />
 </div>
 
----
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=27&duration=3000&pause=1000&color=7ED7C1&center=false&vCenter=true&width=450&height=140&lines=I'm+studying+Data+Analysis;Learning+about+Business+Analysis;Interest+in+Databases;Focused+to+learn+ML+and+AI;Welcome+to+my+Github"
-  align="left"
-  width="600"
-  alt="Typing SVG"
-/>
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  <!-- Left image -->
 
-<img
-  src="https://i.pinimg.com/736x/9e/14/8e/9e148ef4b8ae09f64451e6acf5538ae2.jpg"
-  width="120"
-  height="120"
-  align="right"
-  alt="Cute Cat Coding"
-/>
+  <!-- Right typing SVG -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=00CC99&multiline=true&repeat=false&lines=Shanaya+Reporting.;Developer+of+things,+experimenter+of+systems,+destroyer+of+bugs.;Fun+fact:+most+commits+involve+panic,+caffeine,+and+small+victories.;Code:+behaves+like+it+has+a+personality.;Me+again:+desperately+tries+to+stay+sane.;Also+me:+apparently+this+is+my+GitHub+profile+welcome.;Skills:+talks+to+data,+interprets+trends,+occasionally+convinces+spreadsheets+to+behave.;Currently:+befriending+neural+networks+and+deep+learning,+dabbling+in+Informatica"
+    alt="Shanaya Typing SVG"
+    style="height: 150px; max-width: 70%; object-fit: contain;"
+  />
+  
+  <img
+    src="https://i.pinimg.com/736x/66/d3/bb/66d3bbf486002c539aaec1dcb71ba734.jpg"
+    alt="Cute Cat Coding"
+    style="width: 150px; height: 150px; border-radius: 10px; object-fit: cover;"
+  />
+</div>
 
-<br clear="both"/>
-
----
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 <table width="100%" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
   <tr>

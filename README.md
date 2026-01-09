@@ -29,50 +29,25 @@
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
-<table width="100%" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
-  <tr>
-    <!-- Left Column -->
-    <td width="60%" valign="top" style="padding: 20px; font-family: Arial, sans-serif; line-height: 1.6; text-align: center;">
-      <br>
-      <b>About Me</b>
-      <br><br>
-      <p style="display: inline-block; text-align: left; margin: 0 auto;">
-        - 🎓 Pursuing a <b>B.Tech in Computer Science</b> with a solid foundation in algorithms, data structures, and computational logic (^‿^) <br>
-        - 📊 Passionate about <b>Predictive Analytics</b> and <b>Data Science</b>, transforming complex datasets into intelligent, data-driven strategies (•̀ᴗ•́)و <br>
-        - 💼 Focused on <b>Business Analysis</b>, bridging the gap between technical insights and strategic objectives for measurable impact (¬‿¬) <br>
-        - 🧠 Deeply interested in <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Neural Networks</b> to build advanced predictive systems (ʘ‿ʘ) <br>
-        - 🗄️ Skilled in <b>SQL</b> and <b>Relational Databases</b> for streamlined data extraction, transformation, and high-performance analysis (⌐■_■) <br>
-        - 📐 Experienced in <b>Statistical Analysis</b> and <b>Feature Engineering</b> to uncover hidden patterns and meaningful trends (ಠ‿ಠ) <br>
-        - 🐍 Proficient in <b>Python</b> and <b>Java</b>, utilizing <b>Pandas</b>, <b>NumPy</b>, and visualization libraries for end-to-end ML workflows (ᕙ(⇀‸↼‶)ᕗ) <br>
-        - 📈 Dedicated to <b>Data Visualization</b> and analytical storytelling to communicate complex findings to stakeholders clearly (•_•) <br>
-        - 🧩 Driven by complex problem-solving and the challenge of turning raw variables into actionable business intelligence (ง •̀_•́)ง <br>
-        - ⚙️ Adept at data cleaning, debugging, and <b>Model Optimization</b> to ensure reliable and scalable predictive solutions (≧◡≦) <br>
-        - 🎧 Often found architecting models and analyzing data with a lo-fi beat in the background to maintain focus and flow (☕_☕) <br>
-      </p>
-      <br><br>
-      <b>🔗 Find Me Online</b>
-      <br><br>
-      <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-        <a href="mailto:cold12coffe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"></a>
-        <a href="https://x.com/arshi8050121375"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"></a>
-        <a href="https://www.linkedin.com/in/arshi-bansal-7a843736a/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"></a>
-        <a href="https://github.com/ArshiBansal"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"></a>
-        <a href="https://www.instagram.com/only_brewed_coffee/"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"></a>
-        <a href="https://www.leetcode.com/arshi_bansal_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"></a>
-        <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" width="40" height="40"></a>
-        <a href="https://stackoverflow.com/"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" height="40"></a>
-        <a href="https://www.hackerrank.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"></a>
-      </div>
-    </td>
-    <!-- Right Column -->
-    <td width="40%" valign="top" style="padding: 20px; text-align: center;">
-      <br><br><br><br><br><br><br><br>
-      <img src="https://i.pinimg.com/736x/80/b3/ad/80b3add9ded7804d9c6aed182c1e9382.jpg" alt="Profile Image" style="width: 100%; max-width: 500px; border-radius: 15px;">
-    </td>
-  </tr>
-</table>
+<div >
+  <!-- text on the right -->
+  <div>
+    <b><i>What my brain is currently trained on:</i></b><br><br>
+    - Pursuing a <b>B.Tech in Computer Science</b>, building a strong foundation in problem-solving and computational thinking (^‿^) <br>
+    - <b>Data Science</b> & <b>Data Analysis</b>: turning raw, uncooperative data into clear, actionable insights (ಠ‿ಠ) <br>
+    - <b>Predictive Analytics</b> — applying statistical models to make informed, data-driven forecasts (ʘ‿ʘ) <br>
+    - <b>Business Analysis</b>, translating analytical results into decisions that move the needle (¬‿¬) <br>
+    - Actively working with <b>AI / ML / Neural Networks</b> to design and evaluate intelligent systems (ᕙ(⇀‸↼‶)ᕗ) <br>
+    - Strong command of <b>SQL</b> & relational databases for efficient data querying and management (⌐■_■) <br>
+    - Experienced with <b>Informatica</b> for building and maintaining reliable ETL pipelines (ಠ_ಠ) <br>
+    - <b>Python</b> for data processing, modeling, and analytics workflows (≧◡≦) <br>
+    - Working knowledge of <b>Java</b> & <b>DSA</b> — solid fundamentals, no drama (•_•) <br>
 
----
+  </div>
+
+</div>
+
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 ### (^_^) Programming Languages  
 <br>
@@ -141,7 +116,7 @@
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
 </p>
 
----
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 ## 🎯 Current Focus
 
@@ -166,7 +141,7 @@
   </tr>
 </table>
 
----
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 ## GitHub Achievements 
 
@@ -174,7 +149,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=night&no-frame=true&no-bg=true&margin-w=4&column=8" />
 </div>
 
----
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 ## 📊 GitHub Analytics
 
@@ -189,13 +164,13 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&langs_count=10&theme=aura&hide_border=true" height="320" width="380"/>
 </div>
 
----
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiBansal&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
 
----
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 ## 🔮 Future Scope
 

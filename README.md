@@ -7,21 +7,24 @@
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-  <!-- Left image -->
+<img
+  src="https://i.pinimg.com/originals/88/4e/cb/884ecb28e4132c084ec6be43a90e495b.gif"
+  width="240"
+  height="240"
+  align="right"
+/>
 
-  <!-- Right typing SVG -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=00CC99&multiline=true&repeat=false&lines=Shanaya+Reporting.;Developer+of+things,+experimenter+of+systems,+destroyer+of+bugs.;Fun+fact:+most+commits+involve+panic,+caffeine,+and+small+victories.;Code:+behaves+like+it+has+a+personality.;Me+again:+desperately+tries+to+stay+sane.;Also+me:+apparently+this+is+my+GitHub+profile+welcome.;Skills:+talks+to+data,+interprets+trends,+occasionally+convinces+spreadsheets+to+behave.;Currently:+befriending+neural+networks+and+deep+learning,+dabbling+in+Informatica"
-    alt="Shanaya Typing SVG"
-    style="height: 150px; max-width: 70%; object-fit: contain;"
-  />
-  
-  <img
-    src="https://i.pinimg.com/736x/66/d3/bb/66d3bbf486002c539aaec1dcb71ba734.jpg"
-    alt="Cute Cat Coding"
-    style="width: 150px; height: 150px; border-radius: 10px; object-fit: cover;"
-  />
+<div>
+
+<b><i>Let me introduce myself, your honor...</i></b><br>
+<b><i>So yeah, it's me, Arshi Bansal 😭</i></b><br><br>
+
+<b><i>Welcome to my GitHub where dreams go to get 404’d.</i></b><br>
+<b><i>I write code that works once and then ghosts me forever.</i></b><br><br>
+
+<b><i>Code: behaves like it has a personality 😤</i></b><br>
+<b><i>Me again: desperately tries to stay sane.</i></b>
+
 </div>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>

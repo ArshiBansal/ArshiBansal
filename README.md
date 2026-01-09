@@ -120,26 +120,27 @@
 
 ## 🎯 Current Focus
 
-<table width="100%" align="center">
-  <tr>
-    <!-- Left Side: Image -->
-    <td width="50%" align="center">
-      <img src="https://i.pinimg.com/736x/ab/a9/41/aba94111afe833e42a9dd5905dbeb565.jpg" width="350px" height="300px" alt="AI Learning"/>
-    </td>    
-    <!-- Right Side: Text -->
-    <td width="50%" valign="top">
-      <ul><br>
-        <li>(^_^) Learning and implementing <b>Machine Learning Algorithms</b></li>
-        <li>(o_o) Exploring <b>Artificial Intelligence (AI)</b> concepts and applications</li>
-        <li>(¬_¬) Strengthening <b>Data Analysis</b> and <b>Business Analysis</b> skills</li>
-        <li>(>_<) Gaining hands-on experience with <b>ETL/ELT processes</b> and <b>Informatica</b></li>
-        <li>(^o^) Practicing <b>data integration</b> and <b>workflow automation</b> for real-world datasets</li>
-        <li>(¬‿¬) Continuously experimenting with <b>cutting-edge AI/ML and data analytics tools</b></li>
-      </ul>
-    </td>
+<img
+  src="https://i.pinimg.com/1200x/10/a8/4d/10a84d49e590b208a58a1214a5f3242a.jpg"
+  width="240"
+  height="240"
+  align="right"
+/>
 
-  </tr>
-</table>
+<div>
+
+<b><i>Currently focused on:</i></b><br><br>
+
+<b><i>🙂 Data Science & Data Analysis</i></b> — turning raw data into ~~confusion~~ insights<br>
+<b><i>😄 Predictive Analytics</i></b> — forecasting outcomes with math and mild optimism<br>
+<b><i>😊 AI / Machine Learning / Neural Networks</i></b> — teaching models patterns I barely understand<br>
+<b><i>🙂 SQL & Databases</i></b> — asking tables the right questions (eventually)<br>
+<b><i>😌 Business Analysis</i></b> — making sure insights don’t die in a slide deck<br>
+<b><i>🙂 Python</i></b> — the glue holding all of this together<br>
+<b><i>😄 Java & DSA</i></b> — ~~survived~~ learned, still respected<br>
+
+</div>
+
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 

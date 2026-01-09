@@ -175,26 +175,40 @@
 
 ## 🔮 Future Scope
 
-<table align="center" width="100%" style="height:600px;">
-  <tr>
-    <td width="50%" valign="top" style="line-height:2.2em; color:#1E90FF; font-size:18px; padding-right:20px;">
-      <ul>
-        <li>(>_>) Diving deeper into <b>advanced ML</b> areas like <b>Generative AI</b>, <b>Reinforcement Learning</b>, and <b>Graph Neural Networks</b></li>
-        <li>(*.*) Contributing actively to <b>open-source projects</b> and collaborating with global developer communities</li>
-        <li>(o_O) Applying AI for <b>social good</b> in fields like <b>healthcare</b>, <b>education</b>, and <b>sustainability</b></li>
-        <li>(^o^) Working towards <b>AI solutions</b> that address climate change, renewable energy, and resource optimization</li>
-        <li>(>o<) Mentoring and guiding <b>aspiring data scientists</b> to foster a culture of learning and innovation</li>
-        <li>(¬‿¬) Building <b>scalable, production-ready AI systems</b> integrated with cloud platforms and real-world applications</li>
-        <li>(^_~) Continuously innovating at the crossroads of <b>AI, full-stack development</b>, and <b>data-driven decision making</b></li>
-          <br>
-      </ul>
-        </td>
-    <td width="50%" align="center" valign="top"><br><br>
-      <img src="https://i.pinimg.com/736x/f0/88/ac/f088ac16f22616b41992fadfdf6b7286.jpg" width="300px" height="300px" alt="AI Learning"/>
-      <br>
-    </td>
-  </tr>
-</table>
+<img
+  src="https://i.pinimg.com/736x/f0/88/ac/f088ac16f22616b41992fadfdf6b7286.jpg"
+  width="240"
+  height="240"
+  align="right"
+/>
+
+<div>
+
+<b><i>Future scope (where this is headed):</i></b><br><br>
+
+<b><i>Growing as a Data Scientist</i></b> — working with complex data to drive impact (^‿^) <br>
+<b><i>Advancing in Predictive Analytics</i></b> — building models that stay reliable over time (ʘ‿ʘ) <br>
+<b><i>Deepening AI / ML / Neural Network expertise</i></b> — focusing on understanding, not just training (ಠ‿ಠ) <br>
+<b><i>Scaling work with SQL & Databases</i></b> — handling larger and messier systems (⌐■_■) <br>
+<b><i>Strengthening Business Analytics</i></b> — aligning insights with real decisions (¬‿¬) <br>
+<b><i>Designing cleaner data pipelines</i></b> — fewer hacks, more structure (ಠ_ಠ) <br>
+<b><i>Continuous learning</i></b> — because this field refuses to stand still (≧◡≦) <br>
+
+</div>
           
----
-<img src="216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="200" alt="Coding GIF"><img src="lol.gif" width="200" alt="Coding GIF"><img src="hehe.gif" width="200" alt="Coding GIF">
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=4200&pause=1500&color=00FFA3&center=true&vCenter=true&width=980&height=160&multiline=true&repeat=false&lines=Today%3A+I%E2%80%99ll+fix+it+quickly;Also+today%3A+opens+the+code;One+small+change+later;Okay+this+is+tomorrow%E2%80%99s+problem+%5E_%5E"
+    alt="Subtle CSE Sarcasm Meme"
+  />
+</div>
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1500&color=00FFA3&center=true&vCenter=true&width=900&height=160&multiline=true&repeat=false&lines=WELL+THAT%E2%80%99S+ALL+FOLKS+%F0%9F%98%82;THANKS+FOR+VISITING+MY+CHAOTIC+GITHUB+%F0%9F%98%AD;GO+AHEAD+AND+PRETEND+YOU+LEARNED+SOMETHING+%5E_%5E"
+    alt="Sarcastic Thank You SVG"
+  />
+</div>
+

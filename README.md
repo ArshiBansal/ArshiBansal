@@ -1,25 +1,67 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hello+World!+I'm+Arshi+Bansal&repeat=twice" alt="Typing SVG" />
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img
+  src="https://i.pinimg.com/originals/6d/c3/3a/6dc33a2039fe8a7cd2f92dee2ad48148.gif"
+  width="150"
+  height="150"                                                              
+  align="left"
+  alt="Cute Cat Coding"
+/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=3800&pause=1000&color=00FFA4&center=false&vCenter=true&width=450&height=140&lines=Hey%2C+I'm+Arshi!"
+  align="right"
+  width="650"
+  alt="Hey, I'm Arshi!"
+/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+<br clear="both"/>
 
 <div align="center">
-<a href="https://github.com/ArshiBansal">
-  <img
-    src="https://komarev.com/ghpvc/?username=ArshiBansal&label=✨%20PROFILE%20VIEWS%20✨&labelColor=7E57C2&color=7E57C2&style=for-the-badge"
-    alt="profile views"
-  >
-</a>
-</div>
-
----
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=7AF79A&center=true&vCenter=true&width=850&lines=I'm+studying+Data+Analysis;Learning+about+Business+Analysis;Interest+in+Databases;Focused+to+learn+ML+and+AI;Welcome+to+my+Github" alt="Typing SVG">
+  <!-- 1. Profile Views (your original, kept as is) -->
+  <a href="https://github.com/ArshiBansal">
+    <img
+      src="https://komarev.com/ghpvc/?username=ArshiBansal&label=PROFILE%20VIEWS&color=7E57C2&style=for-the-badge"
+      alt="Profile Views"
+    />
   </a>
-</p>
+
+  <!-- 2. GitHub Followers (now in for-the-badge style, matching size/color vibe) -->
+  <a href="https://github.com/ArshiBansal?tab=followers">
+    <img 
+      src="https://img.shields.io/github/followers/ArshiBansal?label=Followers&logo=github&logoColor=white&color=7E57C2&style=for-the-badge" 
+      alt="GitHub followers"
+    >
+  </a>
+
+  <!-- 3. GitHub User's Stars (total from top 200 repos - for-the-badge style) -->
+  <a href="https://github.com/ArshiBansal?tab=repositories">
+    <img 
+      src="https://img.shields.io/github/stars/ArshiBansal?label=Stars&logo=github&logoColor=white&color=7E57C2&style=for-the-badge" 
+      alt="GitHub stars (top repos)"
+    >
+  </a>
+</div>
 
 ---
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=27&duration=3000&pause=1000&color=7ED7C1&center=false&vCenter=true&width=450&height=140&lines=I'm+studying+Data+Analysis;Learning+about+Business+Analysis;Interest+in+Databases;Focused+to+learn+ML+and+AI;Welcome+to+my+Github"
+  align="left"
+  width="600"
+  alt="Typing SVG"
+/>
+
+<img
+  src="https://i.pinimg.com/736x/9e/14/8e/9e148ef4b8ae09f64451e6acf5538ae2.jpg"
+  width="120"
+  height="120"
+  align="right"
+  alt="Cute Cat Coding"
+/>
+
+<br clear="both"/>
+
+---
+
 <table width="100%" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
   <tr>
     <!-- Left Column -->
@@ -212,3 +254,4 @@
 </table>
           
 ---
+<img src="216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="200" alt="Coding GIF"><img src="lol.gif" width="200" alt="Coding GIF"><img src="hehe.gif" width="200" alt="Coding GIF">

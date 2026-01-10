@@ -257,7 +257,24 @@
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
+<br>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=1000&height=220&multiline=true&repeat=false&lines=Bugs%3A+I%E2%80%99m+everywhere%2C+hiding+like+a+ninja.;Commits+%26+Pull+Requests%3A+Look+busy%2C+nobody+will+notice+errors.;AI+%26+ML+Engineers%3A+I+optimize%2C+debug%2C+and+hope+Grok+saves+me+at+3+AM.;Data+Analysts+%26+Business+Analysts+%26+Developers%3A+We+summarize%2C+clean%2C+code%E2%80%A6+and+pray+ChatGPT+knows+what+we+mean.;All%3A+And+somehow%2C+they+expect+results." 
+    alt="Sarcastic Joke about Tech Roles" 
+  />
+</div>
+<br>
 
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
+<br>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Future+scope:+mastering+pipelines,+models,+and+dashboards.;But+will+my+code+ever+behave%3F" 
+    alt="Sarcastic Question about Future Scope" 
+  />
+</div>
 
 <img
   src="https://i.pinimg.com/736x/f0/88/ac/f088ac16f22616b41992fadfdf6b7286.jpg"
@@ -268,7 +285,7 @@
 
 <div>
 
-<b><i>Future scope (where this is headed):</i></b><br><br>
+<b><i>Probably not, but let’s pretend <s>miraculously</s> yes, because future scope <s>somehow</s> exists… </i></b><br><br>
 
 <b><i>Growing as a Data Scientist</i></b> — working with complex data to drive impact (^‿^) <br>
 <b><i>Advancing in Predictive Analytics</i></b> — building models that stay reliable over time (ʘ‿ʘ) <br>
@@ -280,19 +297,16 @@
 
 </div>
           
+<br>
+<br>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=1000&height=260&multiline=true&repeat=false&lines=So+it+ends+here;Thanks+for+exploring+my+chaotic+GitHub+%F0%9F%98%AD;Hope+it+taught+you+something%E2%80%A6+or+at+least+entertained+%F0%9F%98%82;Don%E2%80%99t+blame+me+for+the+errors+%5E_%5E;Powered+by+ChatGPT+%F0%9F%A4%96,+full+credit+there+%F0%9F%98%85"
+    alt="Thank You Joke SVG"
+  />
+</div>
+<br>
+
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
-
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=4200&pause=1500&color=00FFA3&center=true&vCenter=true&width=980&height=160&multiline=true&repeat=false&lines=Today%3A+I%E2%80%99ll+fix+it+quickly;Also+today%3A+opens+the+code;One+small+change+later;Okay+this+is+tomorrow%E2%80%99s+problem+%5E_%5E"
-    alt="Subtle CSE Sarcasm Meme"
-  />
-</div>
-
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1500&color=00FFA3&center=true&vCenter=true&width=900&height=160&multiline=true&repeat=false&lines=WELL+THAT%E2%80%99S+ALL+FOLKS+%F0%9F%98%82;THANKS+FOR+VISITING+MY+CHAOTIC+GITHUB+%F0%9F%98%AD;GO+AHEAD+AND+PRETEND+YOU+LEARNED+SOMETHING+%5E_%5E"
-    alt="Sarcastic Thank You SVG"
-  />
-</div>
 

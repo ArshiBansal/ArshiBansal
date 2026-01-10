@@ -40,6 +40,13 @@
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 <br>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Ever+wonder+what+all+this+brainpower+is+actually+doing%3F" 
+    alt="Sarcastic Leading Question about Skills" 
+  />
+</div>
+
 <div >
   <!-- text on the right -->
   <div>
@@ -62,76 +69,89 @@
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
-### (^_^) Programming Languages  
 <br>
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/>
-  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="60" height="60" />
-</p>
-
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=880&height=220&multiline=true&repeat=false&lines=My+brain+works+in+mysterious+ways%E2%80%A6;Solving+equations+at+3+AM,+questioning+life+at+4.;It+stores+AI+models,+SQL+queries,+and+memes.;Occasionally+runs+into+a+stack+overflow%E2%80%A6+in+real+life.;Debugging+myself+is+harder+than+any+code." 
+    alt="Sarcastic Multi-Line Joke" 
+  />
+</div>
 <br>
-
-### (o_o) Frontend Development and Backend Development 
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="60" height="60"/>
-  <img src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg" width="60" height="60" />
-</p>
-
-<br>
-
-### (•‿•) Databases  
-<br>
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
-  <img src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg" width="60" height="60" />
-</p>
-
-<br>
-
-### (◕‿◕) Tools & Platforms  <br>
-<p align="center">
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" height="60" />  
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60" height="60" />  
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="60" height="60" />
-</p>
-
-<br>
-
-### (◠‿◠) Data Science / ML Libraries 
-<br>
-<p align="center">
-  <img src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg" width="60" height="60"/>
-  <img src="https://devicon-website.vercel.app/api/numpy/original-wordmark.svg" width="60" height="60"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60" height="60"/>
-  <img src="https://matplotlib.org/_static/images/documentation.svg" alt="Matplotlib" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" width="60" height="60"/>
-  <img src="https://devicon-website.vercel.app/api/tensorflow/original-wordmark.svg" width="60" height="60"/>
-  <img src="https://devicon-website.vercel.app/api/pytorch/plain-wordmark.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="60" height="60"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/>
-</p><br>
-
-### (ಠ_ಠ) Data Visualization & BI Tools  <br>
-<p align="center">
-<br>  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" /></a>
-  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
-  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
-</p>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
-## 🎯 Current Focus
+<br>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=So+many+languages,+frameworks+and+tools+to+learn...;Do+I+even+know+what+to+do+with+them%3F+Maybe+just+enough+to+use+ChatGPT%21" 
+    alt="Sarcastic Question about Skills and Tools" 
+  />
+</div>
+
+<b><i>Languages I torture myself with daily (^_^) :</i></b><br><br>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" title="Python: my life support"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" title="Java: strict but reliable"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" title="C++: where memories go to segfault"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" title="JavaScript: chaos in a nutshell"/>
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="60" height="60" title="PHP: still surviving somehow"/>
+</p>
+
+<b><i>Frontend & Backend wizardry (o_o) :</i></b><br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" height="60" title="HTML: putting letters on the page"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" height="60" title="CSS: pretending to be creative"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="60" height="60" title="Bootstrap: my template crutch"/>
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="60" height="60" title="FastAPI: fast but temperamental"/>
+  <img src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg" width="60" height="60" title="Flask: lightweight chaos"/>
+</p>
+
+<b><i>Databases I sweet-talk to survive (•‿•) :</i></b><br><br>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" title="MySQL: the classic"/>
+  <img src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg" width="60" height="60" title="PostgreSQL: fancy but polite"/>
+</p>
+
+<b><i>Tools & Platforms that judge me (◕‿◕) :</i></b><br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" height="60" title="GitHub: witness to my failures"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60" height="60" title="Git: blame game master"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60" height="60" title="VSCode: my cozy prison"/>
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="60" height="60" title="Bash: yelling at the terminal"/>
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="60" height="60" title="Vercel: pushes my sanity"/>
+</p>
+
+<b><i>Data Science / ML Libraries I feed caffeine to (◠‿◠) :</i></b><br><br>
+<p align="center">
+  <img src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg" width="60" height="60" title="Pandas: taming messy data"/>
+  <img src="https://devicon-website.vercel.app/api/numpy/original-wordmark.svg" width="60" height="60" title="NumPy: arrays, arrays everywhere"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60" title="Seaborn: making pretty plots"/>
+  <img src="https://matplotlib.org/_static/images/documentation.svg" width="60" height="60" title="Matplotlib: more plotting pain"/>
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" width="60" height="60" title="Scikit-learn: magic or guesswork?"/>
+  <img src="https://devicon-website.vercel.app/api/tensorflow/original-wordmark.svg" width="60" height="60" title="TensorFlow: neural network nightmares"/>
+  <img src="https://devicon-website.vercel.app/api/pytorch/plain-wordmark.svg" width="60" height="60" title="PyTorch: dynamic chaos"/>
+  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="60" height="60" title="XGBoost: boosting my ego"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" height="40" title="Streamlit: turning notebooks into magic"/>
+</p>
+
+<b><i>Data Visualization & BI Tools that stare at me (ಠ_ಠ) :</i></b><br><br>
+<p align="center">
+  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" title="Power BI: plotting my life"/></a>
+  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau: making dashboards scream"/></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter: notebooks of despair"/></a>
+</p>
+<br>
+<br>
+
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
+<br>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1000&height=80&multiline=false&repeat=false&lines=So+many+technologies+to+master,+what+am+I+actually+focusing+on%3F" 
+    alt="Sarcastic Question about Current Focus" 
+  />
+</div>
 
 <img
   src="https://i.pinimg.com/1200x/10/a8/4d/10a84d49e590b208a58a1214a5f3242a.jpg"
@@ -153,40 +173,91 @@
 <b><i>😄 Java & DSA</i></b> — ~~survived~~ learned, still respected<br>
 
 </div>
-
+<br>
+<br>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
-## GitHub Achievements 
+<br>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=1000&height=180&multiline=true&repeat=false&lines=B.Tech+engineers+everywhere+be+like...;Learning+20+languages,+10+frameworks,+and+50+tools...;Yet+spends+half+the+time+Googling+error+codes;Master+of+Stack+Overflow,+CEO+of+%27It+Works+on+My+Machine%27%21" 
+    alt="Sarcastic Joke about BTech Engineers" 
+  />
+</div>
+
+<br>
+
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
+<br>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=1000&height=80&multiline=false&repeat=false&lines=All+these+commits+and+projects...+so+where+are+my+GitHub+trophies%3F" 
+    alt="Sarcastic Question about GitHub Achievements" 
+  />
+</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=night&no-frame=true&no-bg=true&margin-w=4&column=8" />
+  <img 
+    src="https://github-profile-trophy-fork-two.vercel.app/?username=ArshiBansal&theme=onedark&column=8&no-frame=true&no-bg=true&margin-w=15&margin-h=15" 
+    alt="GitHub Trophies" 
+  />
 </div>
+<br>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
-## 📊 GitHub Analytics
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <!-- First row -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&theme=aura&hide_border=true" height="320" width="380"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiBansal&theme=aura&hide_border=true" height="320" width="380"/>
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <!-- Second row -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&langs_count=10&theme=aura&hide_border=true" height="320" width="380"/>
-</div>
-
-<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
-
+<br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiBansal&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" width="100%"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&size=26&duration=4000&pause=1200&color=00CC88&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=Top+languages%2C+streaks%2C+and+contribution+charts...+yet+my+code+still+crashes+at+3+AM;and+all+these+GitHub+stats...+who%27s+keeping+track+of+my+sanity%3F"
+    alt="Sarcastic Question about GitHub Analytics"
+  />
 </div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <!-- GitHub Stats (using gh-stats-gen alternative) -->
+  <img 
+    src="https://github-readme-stats-lovat-ten.vercel.app/api?username=ArshiBansal&show_icons=true&theme=aura&hide_border=true&rank_icon=github" 
+    height="320" 
+    width="400" 
+    alt="GitHub Stats" 
+  />
+  
+  <!-- Contribution Streak (reliable demolab service) -->
+  <img 
+    src="https://streak-stats.demolab.com?user=ArshiBansal&theme=aura&hide_border=true" 
+    height="320" 
+    width="400" 
+    alt="Contribution Streak" 
+  />
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <!-- Top Languages (using gh-stats-gen) -->
+  <img 
+    src="https://github-readme-stats-lovat-ten.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&langs_count=10&theme=aura&hide_border=true" 
+    height="320" 
+    width="400" 
+    alt="Top Languages" 
+  />
+</div>
+
+<div align="center" style="margin: 30px 0;">
+  <!-- Activity Graph (still working perfectly) -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiBansal&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" 
+    width="95%" 
+    alt="Phoenix's Contribution Graph" 
+  />
+</div>
+<br>
+<br>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
-## 🔮 Future Scope
+
 
 <img
   src="https://i.pinimg.com/736x/f0/88/ac/f088ac16f22616b41992fadfdf6b7286.jpg"

@@ -7,10 +7,18 @@
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
+<br>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=32&duration=4000&pause=1200&color=00CC88&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Guess+who's+responsible+for+this+mess%3F" 
+    alt="Sarcastic Leading Question" 
+  />
+</div>
+
 <img
   src="https://i.pinimg.com/originals/88/4e/cb/884ecb28e4132c084ec6be43a90e495b.gif"
-  width="240"
-  height="240"
+  width="200"
+  height="200"
   align="right"
 />
 
@@ -26,9 +34,12 @@
 <b><i>Me again: desperately tries to stay sane.</i></b>
 
 </div>
+<br>
+<br>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
+<br>
 <div >
   <!-- text on the right -->
   <div>
@@ -46,6 +57,8 @@
   </div>
 
 </div>
+<br>
+<br>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 

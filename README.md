@@ -42,6 +42,42 @@
 <br>
 <div align="center">
   <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=00CC88&center=true&vCenter=true&width=1000&height=120&multiline=true&repeat=false&lines=Still+here%3F+Bold+choice.;Ready+to+turn+scrolling+into+a+conversation%3F"
+    alt="Contact Me Typing SVG"
+  />
+</div>
+
+<b><i>Looks like we’re on the same page.</i></b><br>
+<b><i>Here’s how you can reach the <s>perfectly put-together</s> <s>low-maintenance</s> human behind the chaos:</i></b><br><br>
+<br>
+<p align="center">
+  <a href="mailto:arshi122022@gmail.com">
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/accc89a7-402b-4769-bc64-504de1f4a196" />
+  </a>
+  <a href="https://www.linkedin.com/in/arshibansal97/">
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/67701f6e-7fe7-4614-8b65-3884da8ed1f3" />
+  </a>
+  <a href="https://github.com/ArshiBansal">
+    <img width="50" height="50" alt="image" src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.hackerrank.com/arshi900389">
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f3e0bb5f-6f80-44a3-8acc-93073af5a1e7" />
+  </a>
+  <a href="https://leetcode.com/arshi_bansal/">
+    <img width="50" height="" alt="image" src="https://github.com/user-attachments/assets/b5bbbafc-5929-424a-9583-40a2d8502217" />
+  </a>
+  <a href="https://stackoverflow.com/users/your-id">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" width="50"height="50"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
+<br>
+<div align="center">
+  <img 
     src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Ever+wonder+what+all+this+brainpower+is+actually+doing%3F" 
     alt="Sarcastic Leading Question about Skills" 
   />

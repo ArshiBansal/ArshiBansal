@@ -217,9 +217,102 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=1000&height=180&multiline=true&repeat=false&lines=B.Tech+engineers+everywhere+be+like...;Learning+20+languages,+10+frameworks,+and+50+tools...;Yet+spends+half+the+time+Googling+error+codes;Master+of+Stack+Overflow,+CEO+of+%27It+Works+on+My+Machine%27%21" 
-    alt="Sarcastic Joke about BTech Engineers" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=5500&pause=1200&color=00CC88&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Tools+armed%E2%80%A6+brain+slightly+fried%E2%80%A6;now+witness+the+glorious+mess+I+call+projects" 
+    alt="Featured Projects Header"
   />
+</div>
+
+<br>
+<div align="left">
+
+<b><i>Projects that survived my brain (~mostly~) 😵‍💫💥</i></b><br><br>
+
+<div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+<!-- Project 1 -->
+<div align="left">
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/8a1df96a-3e27-4c33-89ee-cb56ffb22224" />
+  <h3>Stocks Analysis </h3>
+  <p>
+    Crunching historical stock data with Python, Jupyter Notebook, ML algorithms, and Python libraries to <s>predict</s> the unpredictable. 
+    Turns raw chaos into trends that might fool you into thinking I know what I’m doing 💸🤯. 
+    Warning: the market doesn’t read my code 😅.
+  </p>
+  <a href="https://github.com/ArshiBansal/Stocks_Analysis" target="_blank">Check the Thrill 💀</a>
+</div>
+
+<!-- Project 2 -->
+<div align="right">
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/9f019f79-719c-4d5a-bc1c-29c55eefd9ac" />
+  <h3>Real Estates Analysis </h3>
+  <p>
+    Using Power BI to predict the unpredictable world of real estate 📊.     
+    Mapped profits, losses, and the types of houses people <s>actually</s> prefer. 
+    Turns raw property data into insights that might make you question your life choices 🏘️🤯.
+    Warning: data might make you question your life choices 🏘️🤯.
+  </p>
+  <a href="https://github.com/ArshiBansal/Real_Estates_Analysis" target="_blank">Enter the Mansion of Madness 🏘️</a>
+</div>
+
+<!-- Project 3 -->
+<div align="left">
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/eae42918-ed0e-42c3-afc3-43b03dc47473" />
+  <h3>Anime EDA & Recommendation </h3>
+  <p>
+    Using SQL, Power BI, Python, Jupyter Notebook, ML algorithms, and Python libraries to analyze anime trends, viewer preferences, and ratings 📊🍿. 
+    Includes a Streamlit web app where you can filter your preferences by genre, rating, and popularity. 
+    Disclaimer: binge recommendations may <s>ruin your sleep schedule</s> and question your life choices 🤯😅.
+  </p>
+  <a href="https://github.com/ArshiBansal/Anime_EDA_and_Recommendation_System" target="_blank">Dive in 🍿</a>
+</div>
+
+<!-- Project 4 -->
+<div align="right">
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/8a0e95ef-bbd1-4bf3-ba7f-de2ee2ac969f" />
+  <h3>Expense Tracker </h3>
+  <p>
+    Built entirely with Java Swing  to track expenses, budgets, and financial disasters. 
+    Helps me (and hopefully you) figure out where all the money <s>mysteriously disappears</s> 💀💸. 
+    Heads up: may induce guilt, regret, and sudden urges to check your wallet 😅💰.
+  </p>
+  <a href="https://github.com/ArshiBansal/Expense_tracker" target="_blank">See the chaos 💀</a>
+</div>
+
+<!-- Project 5 -->
+<div align="left">
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/c2a07b7d-1849-466d-9c6c-c284bb97a160" />
+  <h3>Page Replacement Simulator </h3>
+  <p>
+    Built with Python and a simple GUI to show virtual memory algorithms in action 🖥️⚡. 
+    Implements FIFO, Optimal, LRU, and MRU strategies while I <s>pretend I fully understand OS</s> 🤯. 
+    Brace yourself: may make you rethink every time your program crashes unexpectedly 😅💥.
+  </p>
+  <a href="https://github.com/ArshiBansal/PageReplacementSimulator" target="_blank">Geek mode ON ⚡</a>
+</div>
+
+<!-- Project 6 -->
+<div align="right">
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/1150a961-544c-4367-8a68-5cc93539aafb" />
+  <h3>DeepFocus App 🧘‍♂️</h3>
+  <p> Built entirely with Java Swing to help humans focus and <s>pretend productivity</s> is possible 😅. 
+    Guides you through focus sessions while I try not to get distracted by <s>literally everything</s>. 
+    Proceed with caution: may cause sudden bursts of concentration followed by existential dread 🤯🧘‍♂️.
+  </p>
+  <a href="https://github.com/ArshiBansal/DeepFocus_App" target="_blank">Take a peek 👀</a>
+</div>
+
+<!-- Project 7 -->
+<div align="left">
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/e4d2b885-2924-4d2e-9906-0c40f9e5e773" />
+  <p>
+    Built entirely with Python and its libraries 🐍 to analyze cyber crime trends, detect patterns, and <s>pretend I understand hackers</s> 🔍💻. 
+    Turns chaotic cyber data into slightly less chaos while I question if my own passwords are safe. 
+    Enter at your own risk: may cause paranoia and sudden urges to change passwords 😅🔐.
+  </p>
+  <a href="https://github.com/ArshiBansal/Cyber_Crime_Analysis" target="_blank">Investigate 🔍</a>
+</div>
+
+</div>
 </div>
 
 <br>
@@ -289,17 +382,6 @@
   />
 </div>
 <br>
-<br>
-
-<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
-
-<br>
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=1000&height=220&multiline=true&repeat=false&lines=Bugs%3A+I%E2%80%99m+everywhere%2C+hiding+like+a+ninja.;Commits+%26+Pull+Requests%3A+Look+busy%2C+nobody+will+notice+errors.;AI+%26+ML+Engineers%3A+I+optimize%2C+debug%2C+and+hope+Grok+saves+me+at+3+AM.;Data+Analysts+%26+Business+Analysts+%26+Developers%3A+We+summarize%2C+clean%2C+code%E2%80%A6+and+pray+ChatGPT+knows+what+we+mean.;All%3A+And+somehow%2C+they+expect+results." 
-    alt="Sarcastic Joke about Tech Roles" 
-  />
-</div>
 <br>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>

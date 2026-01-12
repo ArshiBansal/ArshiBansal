@@ -225,7 +225,7 @@
 <br>
 <div align="left">
 
-<b><i>Projects that survived my brain (~mostly~) 😵‍💫💥</i></b><br><br>
+<b><i>Projects that survived my brain (<s>mostly</s>) 😵‍💫💥</i></b><br><br>
 
 <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
@@ -236,6 +236,8 @@
   <p>
     Crunching historical stock data with Python, Jupyter Notebook, ML algorithms, and Python libraries to <s>predict</s> the unpredictable. 
     Turns raw chaos into trends that might fool you into thinking I know what I’m doing 💸🤯. 
+  </p>
+  <p>
     Warning: the market doesn’t read my code 😅.
   </p>
   <a href="https://github.com/ArshiBansal/Stocks_Analysis" target="_blank">Check the Thrill 💀</a>
@@ -243,12 +245,14 @@
 
 <!-- Project 2 -->
 <div align="right">
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/9f019f79-719c-4d5a-bc1c-29c55eefd9ac" />
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/dbd7a3e6-884c-445b-abdf-57d7f5c04155" />
   <h3>Real Estates Analysis </h3>
   <p>
     Using Power BI to predict the unpredictable world of real estate 📊.     
     Mapped profits, losses, and the types of houses people <s>actually</s> prefer. 
     Turns raw property data into insights that might make you question your life choices 🏘️🤯.
+  </p>
+  <p>
     Warning: data might make you question your life choices 🏘️🤯.
   </p>
   <a href="https://github.com/ArshiBansal/Real_Estates_Analysis" target="_blank">Enter the Mansion of Madness 🏘️</a>
@@ -261,6 +265,8 @@
   <p>
     Using SQL, Power BI, Python, Jupyter Notebook, ML algorithms, and Python libraries to analyze anime trends, viewer preferences, and ratings 📊🍿. 
     Includes a Streamlit web app where you can filter your preferences by genre, rating, and popularity. 
+  </p>
+  <p>
     Disclaimer: binge recommendations may <s>ruin your sleep schedule</s> and question your life choices 🤯😅.
   </p>
   <a href="https://github.com/ArshiBansal/Anime_EDA_and_Recommendation_System" target="_blank">Dive in 🍿</a>
@@ -268,11 +274,13 @@
 
 <!-- Project 4 -->
 <div align="right">
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/8a0e95ef-bbd1-4bf3-ba7f-de2ee2ac969f" />
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/7bed0a9e-cc07-4e6c-9927-24ac1eed7083" />
   <h3>Expense Tracker </h3>
   <p>
     Built entirely with Java Swing  to track expenses, budgets, and financial disasters. 
     Helps me (and hopefully you) figure out where all the money <s>mysteriously disappears</s> 💀💸. 
+  </p>
+  <p>
     Heads up: may induce guilt, regret, and sudden urges to check your wallet 😅💰.
   </p>
   <a href="https://github.com/ArshiBansal/Expense_tracker" target="_blank">See the chaos 💀</a>
@@ -285,6 +293,8 @@
   <p>
     Built with Python and a simple GUI to show virtual memory algorithms in action 🖥️⚡. 
     Implements FIFO, Optimal, LRU, and MRU strategies while I <s>pretend I fully understand OS</s> 🤯. 
+  </p>
+  <p>
     Brace yourself: may make you rethink every time your program crashes unexpectedly 😅💥.
   </p>
   <a href="https://github.com/ArshiBansal/PageReplacementSimulator" target="_blank">Geek mode ON ⚡</a>
@@ -292,10 +302,12 @@
 
 <!-- Project 6 -->
 <div align="right">
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/1150a961-544c-4367-8a68-5cc93539aafb" />
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/eb2105aa-0504-4ebf-b2d9-13ea58685a7b" />
   <h3>DeepFocus App 🧘‍♂️</h3>
   <p> Built entirely with Java Swing to help humans focus and <s>pretend productivity</s> is possible 😅. 
     Guides you through focus sessions while I try not to get distracted by <s>literally everything</s>. 
+  </p>
+  <p>
     Proceed with caution: may cause sudden bursts of concentration followed by existential dread 🤯🧘‍♂️.
   </p>
   <a href="https://github.com/ArshiBansal/DeepFocus_App" target="_blank">Take a peek 👀</a>
@@ -307,6 +319,8 @@
   <p>
     Built entirely with Python and its libraries 🐍 to analyze cyber crime trends, detect patterns, and <s>pretend I understand hackers</s> 🔍💻. 
     Turns chaotic cyber data into slightly less chaos while I question if my own passwords are safe. 
+  </p>
+  <p>
     Enter at your own risk: may cause paranoia and sudden urges to change passwords 😅🔐.
   </p>
   <a href="https://github.com/ArshiBansal/Cyber_Crime_Analysis" target="_blank">Investigate 🔍</a>
@@ -418,6 +432,28 @@
 <br>
 <br>
 
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
+<br>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=FF6B6B&center=true&vCenter=true&width=1000&height=160&multiline=true&repeat=false&lines=TL+DR:+Me,+my+chaotic+brain,+and+the+mess+I+call+code;+Fueled+by+caffeine,+curiosity+and+occasional+panic" 
+    alt="Sarcastic TL;DR About Me" 
+  />
+</div>
+
+<div align="center">
+
+<b><i>Who am I?</i></b> — Arshi Bansal: professional overthinker, data whisperer, and occasional bug creator 😎💻<br>
+<b><i>What I do?</i></b> — Turn messy datasets into slightly less terrifying insights, confuse ML models for fun, and occasionally convince myself I understand statistics 🤯<br>
+<b><i>Skills & Tools:</i></b> Python, Java, SQL, Power BI, Tableau, Streamlit, Jupyter, Python libraries & frameworks… basically everything that silently judges me 👀<br>
+<b><i>Current Focus:</i></b> Pipelines, dashboards, predictive models, and surviving debugging sessions without existential crises ⚡<br>
+<b><i>Fun Fact:</i></b> Solve equations at 3 AM, question my life at 4, then write code that only works on the 47th try 😵‍💫<br>
+<b><i>Bottom Line:</i></b> Code. Chaos. Coffee. Repeat. Bugs are not a bug, they’re a feature 😏💥
+
+</div>
+<br>
+<br>
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=1000&height=260&multiline=true&repeat=false&lines=So+it+ends+here;Thanks+for+exploring+my+chaotic+GitHub+%F0%9F%98%AD;Hope+it+taught+you+something%E2%80%A6+or+at+least+entertained+%F0%9F%98%82;Don%E2%80%99t+blame+me+for+the+errors+%5E_%5E;Powered+by+ChatGPT+%F0%9F%A4%96,+full+credit+there+%F0%9F%98%85"

@@ -219,7 +219,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
   <!-- GitHub Stats (using gh-stats-gen alternative) -->
   <img 
-    src="https://github-readme-stats-lovat-ten.vercel.app/api?username=ArshiBansal&show_icons=true&theme=aura&hide_border=true&rank_icon=github" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArshiBansal&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" 
     height="320" 
     width="400" 
     alt="GitHub Stats" 
@@ -237,7 +237,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
   <!-- Top Languages (using gh-stats-gen) -->
   <img 
-    src="https://github-readme-stats-lovat-ten.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&langs_count=10&theme=aura&hide_border=true" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&langs_count=8&theme=blue-green" 
     height="320" 
     width="400" 
     alt="Top Languages" 

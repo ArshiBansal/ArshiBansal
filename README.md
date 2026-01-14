@@ -437,7 +437,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=FF6B6B&center=true&vCenter=true&width=1000&height=160&multiline=true&repeat=false&lines=TL+DR:+Me,+my+chaotic+brain,+and+the+mess+I+call+code;+Fueled+by+caffeine,+curiosity+and+occasional+panic" 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1000&height=160&multiline=true&repeat=false&lines=TL+DR:+Me,+my+chaotic+brain,+and+the+mess+I+call+code;+Fueled+by+caffeine,+curiosity+and+occasional+panic" 
     alt="Sarcastic TL;DR About Me" 
   />
 </div>

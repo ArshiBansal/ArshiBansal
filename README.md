@@ -86,15 +86,12 @@
   <!-- text on the right -->
   <div>
     <b><i>What my brain is currently trained on:</i></b><br><br>
-    - Pursuing a <b>B.Tech in Computer Science</b>, building a strong foundation in problem-solving and computational thinking (^‿^) <br>
-    - <b>Data Science</b> & <b>Data Analysis</b>: turning raw, uncooperative data into clear, actionable insights (ಠ‿ಠ) <br>
-    - <b>Predictive Analytics</b> — applying statistical models to make informed, data-driven forecasts (ʘ‿ʘ) <br>
-    - <b>Business Analysis</b>, translating analytical results into decisions that move the needle (¬‿¬) <br>
-    - Actively working with <b>AI / ML / Neural Networks</b> to design and evaluate intelligent systems (ᕙ(⇀‸↼‶)ᕗ) <br>
-    - Strong command of <b>SQL</b> & relational databases for efficient data querying and management (⌐■_■) <br>
-    - Experienced with <b>Informatica</b> for building and maintaining reliable ETL pipelines (ಠ_ಠ) <br>
-    - <b>Python</b> for data processing, modeling, and analytics workflows (≧◡≦) <br>
-    - Working knowledge of <b>Java</b> & <b>DSA</b> — solid fundamentals, no drama (•_•) <br>
+    - B.Tech in Computer Science — learning to think logically while emotionally debugging life (^‿^)<br>
+    - Data Science & Data Analysis — turning uncooperative data into insights that pretend to behave (ಠ‿ಠ)<br>
+    - Predictive & Business Analytics — forecasting outcomes and translating numbers into decisions adults understand (ʘ‿ʘ)<br>
+    - AI / ML / Neural Networks — teaching machines patterns while questioning my own (ᕙ(⇀‸↼‶)ᕗ)<br>
+    - SQL & Informatica — building ETL pipelines and interrogating databases professionally (⌐■_■)<br>
+    - Python + Java + DSA — solid fundamentals, minimal drama, maximum emotional support (•_•)<br>
 
   </div>
 

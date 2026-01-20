@@ -102,16 +102,6 @@
 <br>
 <br>
 
-<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
-
-<br>
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=880&height=220&multiline=true&repeat=false&lines=My+brain+works+in+mysterious+ways%E2%80%A6;Solving+equations+at+3+AM,+questioning+life+at+4.;It+stores+AI+models,+SQL+queries,+and+memes.;Occasionally+runs+into+a+stack+overflow%E2%80%A6+in+real+life.;Debugging+myself+is+harder+than+any+code." 
-    alt="Sarcastic Multi-Line Joke" 
-  />
-</div>
-<br>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 

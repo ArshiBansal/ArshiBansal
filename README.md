@@ -1,7 +1,6 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=880&height=220&multiline=true&repeat=false&lines=Modern+AI+Engineer+Starter+Pack;Me%3A+writes+3-line+prompt;Model%3A+existential+crisis+%F0%9F%92%80;Me+47+iterations+later%3A+please+just+act+normal+I%27m+begging+you+%F0%9F%98%AD" 
-    alt="Modern AI Engineer Starter Pack" 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=880&height=220&multiline=true&repeat=false&lines=Me%3A+writes+clean+logic;Code%3A+fascinating+hypothesis;Runtime%3A+emotionally+disagrees;Output%3A+incorrect+with+confidence;Me%3A+appreciate+the+feedback+%F0%9F%98%8C" 
   />
 </div>
 

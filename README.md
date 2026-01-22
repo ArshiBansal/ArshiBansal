@@ -201,6 +201,31 @@
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 <br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&size=22&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Apparently%2C+algorithms+are+the+personality+test+I+never+asked+for.;So+yes%E2%80%A6+I+voluntarily+solve+the+same+problem+five+different+ways.+Concerned%3F" alt="LeetCode HackerRank Section Header" />
+</div>
+
+<p>
+  <b>Daily LeetCode grind</b> — where confidence goes to <s>die</s> 
+  <b>politely disappear</b> and logic is <s>slowly</s> <b>rebuilt.</b>
+</p>
+
+<!-- Coding Profiles -->
+<div align="center">
+  <!-- LeetCode Card -->
+  <a href="https://leetcode.com/u/arshi_bansal/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/arshi_bansal?theme=dark&font=Space%20Grotesk&ext=contest" alt="LeetCode Stats" width="400" />
+  </a>
+  
+</div>
+
+<br>
+
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
+<br>
+
 <div align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=5500&pause=1200&color=00CC88&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Tools+armed%E2%80%A6+brain+slightly+fried%E2%80%A6;now+witness+the+glorious+mess+I+call+projects" 

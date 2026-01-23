@@ -242,6 +242,21 @@
 
 <!-- Project 1 -->
 <div align="left">
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/63224b6b-3847-4e9c-9519-4ac218e95bc9" />
+  <h3>News Sentiments Analyser</h3>
+  <p>
+    Built with Python, Streamlit, VADER sentiment analysis, and an unhealthy obsession with the news 📰💻.  
+    This app scrapes crypto and stock headlines in real time, judges their emotional state, and delivers them in a sleek, mildly hypnotic UI that might make you question your life choices… or at least your portfolio.  
+    Turns chaotic headlines into “Bullish”, “Bearish”, or “Neutral” insights while I pretend I understand the market’s mood swings 🤯.
+  </p>
+  <p>
+    Warning: may cause sudden existential dread, panic about investments, or the urge to doom-scroll endlessly 😅📈.
+  </p>
+  <a href="https://github.com/ArshiBansal/NEWS_SENTIMENTS_ANALYSER" target="_blank">Catch the Sentiment 📰</a>
+</div>
+
+<!-- Project 2 -->
+<div align="right">
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/8a1df96a-3e27-4c33-89ee-cb56ffb22224" />
   <h3>Stocks Analysis </h3>
   <p>
@@ -254,8 +269,8 @@
   <a href="https://github.com/ArshiBansal/Stocks_Analysis" target="_blank">Check the Thrill 💀</a>
 </div>
 
-<!-- Project 2 -->
-<div align="right">
+<!-- Project 3 -->
+<div align="left">
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/dbd7a3e6-884c-445b-abdf-57d7f5c04155" />
   <h3>Real Estates Analysis </h3>
   <p>
@@ -269,8 +284,8 @@
   <a href="https://github.com/ArshiBansal/Real_Estates_Analysis" target="_blank">Enter the Mansion of Madness 🏘️</a>
 </div>
 
-<!-- Project 3 -->
-<div align="left">
+<!-- Project 4 -->
+<div align="right">
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/eae42918-ed0e-42c3-afc3-43b03dc47473" />
   <h3>Anime EDA & Recommendation </h3>
   <p>
@@ -283,8 +298,8 @@
   <a href="https://github.com/ArshiBansal/Anime_EDA_and_Recommendation_System" target="_blank">Dive in 🍿</a>
 </div>
 
-<!-- Project 4 -->
-<div align="right">
+<!-- Project 5 -->
+<div align="left">
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/7bed0a9e-cc07-4e6c-9927-24ac1eed7083" />
   <h3>Expense Tracker </h3>
   <p>
@@ -297,8 +312,8 @@
   <a href="https://github.com/ArshiBansal/Expense_tracker" target="_blank">See the chaos 💀</a>
 </div>
 
-<!-- Project 5 -->
-<div align="left">
+<!-- Project 6 -->
+<div align="right">
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/c2a07b7d-1849-466d-9c6c-c284bb97a160" />
   <h3>Page Replacement Simulator </h3>
   <p>
@@ -309,19 +324,6 @@
     Brace yourself: may make you rethink every time your program crashes unexpectedly 😅💥.
   </p>
   <a href="https://github.com/ArshiBansal/PageReplacementSimulator" target="_blank">Geek mode ON ⚡</a>
-</div>
-
-<!-- Project 6 -->
-<div align="right">
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/eb2105aa-0504-4ebf-b2d9-13ea58685a7b" />
-  <h3>DeepFocus App 🧘‍♂️</h3>
-  <p> Built entirely with Java Swing to help humans focus and <s>pretend productivity</s> is possible 😅. 
-    Guides you through focus sessions while I try not to get distracted by <s>literally everything</s>. 
-  </p>
-  <p>
-    Proceed with caution: may cause sudden bursts of concentration followed by existential dread 🤯🧘‍♂️.
-  </p>
-  <a href="https://github.com/ArshiBansal/DeepFocus_App" target="_blank">Take a peek 👀</a>
 </div>
 
 <!-- Project 7 -->

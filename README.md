@@ -329,6 +329,7 @@
 <!-- Project 7 -->
 <div align="left">
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/e4d2b885-2924-4d2e-9906-0c40f9e5e773" />
+  <h3>Cyber Crime Analysis</h3>
   <p>
     Built entirely with Python and its libraries 🐍 to analyze cyber crime trends, detect patterns, and <s>pretend I understand hackers</s> 🔍💻. 
     Turns chaotic cyber data into slightly less chaos while I question if my own passwords are safe. 

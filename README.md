@@ -141,6 +141,7 @@
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60" height="60" title="VSCode: my cozy prison"/>
   <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="60" height="60" title="Bash: yelling at the terminal"/>
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="60" height="60" title="Vercel: pushes my sanity"/>
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="60" height="60" title="Postman: testing APIs without tears"/>
 </p>
 
 <b><i>Data Science / ML Libraries I feed caffeine to (◠‿◠) :</i></b><br><br>

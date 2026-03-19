@@ -65,9 +65,6 @@
   <a href="https://leetcode.com/arshi_bansal/">
     <img width="50" height="" alt="image" src="https://github.com/user-attachments/assets/b5bbbafc-5929-424a-9583-40a2d8502217" />
   </a>
-  <a href="https://stackoverflow.com/users/your-id">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" width="50"height="50"/>
-  </a>
 </p>
 
 <br>

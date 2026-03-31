@@ -331,7 +331,7 @@
 
 <div align="center">
   <img 
-    src="https://github-profile-trophy-fork-two.vercel.app/?username=ArshiBansal&theme=onedark&column=8&no-frame=true&no-bg=true&margin-w=15&margin-h=15" 
+    src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=onedark&column=8&no-frame=true&margin-w=15&margin-h=15" 
     alt="GitHub Trophies" 
   />
 </div>
@@ -343,46 +343,41 @@
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&size=26&duration=4000&pause=1200&color=00CC88&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=Top+languages%2C+streaks%2C+and+contribution+charts...+yet+my+code+still+crashes+at+3+AM;and+all+these+GitHub+stats...+who%27s+keeping+track+of+my+sanity%3F"
-    alt="Sarcastic Question about GitHub Analytics"
+    alt="Typing SVG"
   />
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <!-- GitHub Stats (using gh-stats-gen alternative) -->
+<br>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&size=26&duration=4000&pause=1200&color=00CC88&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=Top+languages%2C+streaks%2C+and+contribution+charts...+yet+my+code+still+crashes+at+3+AM;and+all+these+GitHub+stats...+who%27s+keeping+track+of+my+sanity%3F"
+  />
+</div>
+
+<br>
+
+<!-- First row (2 cards) -->
+<!-- First row (2 side by side) -->
+<p align="center">
   <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArshiBansal&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" 
-    height="320" 
-    width="400" 
-    alt="GitHub Stats" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArshiBansal&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true" 
+    width="45%"
   />
   
-  <!-- Contribution Streak (reliable demolab service) -->
   <img 
-    src="https://streak-stats.demolab.com?user=ArshiBansal&theme=aura&hide_border=true" 
-    height="320" 
-    width="400" 
-    alt="Contribution Streak" 
+    src="https://streak-stats.demolab.com?user=ArshiBansal&theme=blue-green&hide_border=true" 
+    width="45%"
   />
-</div>
+</p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <!-- Top Languages (using gh-stats-gen) -->
+<!-- Second row (centered single card) -->
+<p align="center">
   <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&langs_count=8&theme=blue-green" 
-    height="320" 
-    width="400" 
-    alt="Top Languages" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&langs_count=8&theme=blue-green&hide_border=true" 
+    width="45%"
   />
-</div>
-
-<div align="center" style="margin: 30px 0;">
-  <!-- Activity Graph (still working perfectly) -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiBansal&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" 
-    width="95%" 
-    alt="Phoenix's Contribution Graph" 
-  />
-</div>
+</p>
 <br>
 <br>
 

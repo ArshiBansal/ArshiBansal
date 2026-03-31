@@ -340,14 +340,6 @@
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 <br>
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&size=26&duration=4000&pause=1200&color=00CC88&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=Top+languages%2C+streaks%2C+and+contribution+charts...+yet+my+code+still+crashes+at+3+AM;and+all+these+GitHub+stats...+who%27s+keeping+track+of+my+sanity%3F"
-    alt="Typing SVG"
-  />
-</div>
-
-<br>
 
 <div align="center">
   <img

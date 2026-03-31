@@ -357,18 +357,9 @@
 
 <br>
 
-<!-- First row (2 cards) -->
 <!-- First row (2 side by side) -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArshiBansal&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true" 
-    width="45%"
-  />
-  
-  <img 
-    src="https://streak-stats.demolab.com?user=ArshiBansal&theme=blue-green&hide_border=true" 
-    width="45%"
-  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArshiBansal&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true" width="45%"/><img src="https://streak-stats.demolab.com?user=ArshiBansal&theme=blue-green&hide_border=true" width="45%"/>
 </p>
 
 <!-- Second row (centered single card) -->

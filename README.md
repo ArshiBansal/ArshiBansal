@@ -322,24 +322,6 @@
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 <br>
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=1000&height=80&multiline=false&repeat=false&lines=All+these+commits+and+projects...+so+where+are+my+GitHub+trophies%3F" 
-    alt="Sarcastic Question about GitHub Achievements" 
-  />
-</div>
-
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=ArshiBansal&theme=onedark&column=8&no-frame=true&margin-w=15&margin-h=15" 
-    alt="GitHub Trophies" 
-  />
-</div>
-<br>
-
-<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
-
-<br>
 
 <div align="center">
   <img

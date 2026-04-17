@@ -113,49 +113,27 @@
 
 <b><i>Languages I torture myself with daily (^_^) :</i></b><br><br>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" title="Python: my life support"/>
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" title="Java: strict but reliable"/>
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" title="C++: where memories go to segfault"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" title="JavaScript: chaos in a nutshell"/>
-  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="60" height="60" title="PHP: still surviving somehow"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php&theme=dark" />
 </p>
 
 <b><i>Frontend & Backend wizardry (o_o) :</i></b><br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" height="60" title="HTML: putting letters on the page"/>
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" height="60" title="CSS: pretending to be creative"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="60" height="60" title="Bootstrap: my template crutch"/>
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="60" height="60" title="FastAPI: fast but temperamental"/>
-  <img src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg" width="60" height="60" title="Flask: lightweight chaos"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,fastapi,flask&theme=dark" height="60"/>
 </p>
 
 <b><i>Databases I sweet-talk to survive (•‿•) :</i></b><br><br>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" title="MySQL: the classic"/>
-  <img src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg" width="60" height="60" title="PostgreSQL: fancy but polite"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" height="65"/>
 </p>
 
 <b><i>Tools & Platforms that judge me (◕‿◕) :</i></b><br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" height="60" title="GitHub: witness to my failures"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60" height="60" title="Git: blame game master"/>
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60" height="60" title="VSCode: my cozy prison"/>
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="60" height="60" title="Bash: yelling at the terminal"/>
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="60" height="60" title="Vercel: pushes my sanity"/>
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="60" height="60" title="Postman: testing APIs without tears"/>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,bash,vercel,postman&theme=dark" height="60"/>
 </p>
 
 <b><i>Data Science / ML Libraries I feed caffeine to (◠‿◠) :</i></b><br><br>
 <p align="center">
-  <img src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg" width="60" height="60" title="Pandas: taming messy data"/>
-  <img src="https://devicon-website.vercel.app/api/numpy/original-wordmark.svg" width="60" height="60" title="NumPy: arrays, arrays everywhere"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60" title="Seaborn: making pretty plots"/>
-  <img src="https://matplotlib.org/_static/images/documentation.svg" width="60" height="60" title="Matplotlib: more plotting pain"/>
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" width="60" height="60" title="Scikit-learn: magic or guesswork?"/>
-  <img src="https://devicon-website.vercel.app/api/tensorflow/original-wordmark.svg" width="60" height="60" title="TensorFlow: neural network nightmares"/>
-  <img src="https://devicon-website.vercel.app/api/pytorch/plain-wordmark.svg" width="60" height="60" title="PyTorch: dynamic chaos"/>
-  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="60" height="60" title="XGBoost: boosting my ego"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" height="40" title="Streamlit: turning notebooks into magic"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="60"/>
 </p>
 
 <b><i>Data Visualization & BI Tools that stare at me (ಠ_ಠ) :</i></b><br><br>

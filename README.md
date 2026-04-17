@@ -51,19 +51,23 @@
 <br>
 <p align="center">
   <a href="mailto:arshi122022@gmail.com">
-    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/accc89a7-402b-4769-bc64-504de1f4a196" />
-  </a>
+    <img width="50" src="https://github.com/user-attachments/assets/accc89a7-402b-4769-bc64-504de1f4a196" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/arshibansal97/">
-    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/67701f6e-7fe7-4614-8b65-3884da8ed1f3" />
-  </a>
+    <img width="50" src="https://github.com/user-attachments/assets/67701f6e-7fe7-4614-8b65-3884da8ed1f3" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://github.com/ArshiBansal">
-    <img width="50" height="50" alt="image" src="https://skillicons.dev/icons?i=github" />
-  </a>
+    <img width="50" src="https://skillicons.dev/icons?i=github" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://www.hackerrank.com/arshi900389">
-    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f3e0bb5f-6f80-44a3-8acc-93073af5a1e7" />
-  </a>
+    <img width="50" src="https://github.com/user-attachments/assets/f3e0bb5f-6f80-44a3-8acc-93073af5a1e7" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://leetcode.com/arshi_bansal/">
-    <img width="50" height="" alt="image" src="https://github.com/user-attachments/assets/b5bbbafc-5929-424a-9583-40a2d8502217" />
+    <img width="50" src="https://github.com/user-attachments/assets/b5bbbafc-5929-424a-9583-40a2d8502217" />
   </a>
 </p>
 

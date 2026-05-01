@@ -118,7 +118,7 @@
 
 <b><i>Frontend & Backend wizardry (o_o) :</i></b><br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,fastapi,flask&theme=dark" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,fastapi&theme=dark" height="60"/>
 </p>
 
 <b><i>Databases I sweet-talk to survive (•‿•) :</i></b><br><br>
@@ -128,7 +128,7 @@
 
 <b><i>Tools & Platforms that judge me (◕‿◕) :</i></b><br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,bash,vercel,postman&theme=dark" height="60"/>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,bash,postman&theme=dark" height="60"/>
 </p>
 
 <b><i>Data Science / ML Libraries I feed caffeine to (◠‿◠) :</i></b><br><br>

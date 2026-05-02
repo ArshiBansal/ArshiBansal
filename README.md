@@ -23,14 +23,14 @@
 
 <div>
 
-<b><i>Let me introduce myself, your honor...</i></b><br>
-<b><i>So yeah, it's me, Arshi Bansal 😭</i></b><br><br>
+<b><i>May it please the court, allow me to present myself...</i></b><br>
+<b><i>Yes unfortunately, it’s still me — Arshi Bansal 😭</i></b><br><br>
 
-<b><i>Welcome to my GitHub where dreams go to get 404’d.</i></b><br>
-<b><i>I write code that works once and then ghosts me forever.</i></b><br><br>
+<b><i>Welcome to my GitHub, where aspirations come to quietly fail with a 404 status.</i></b><br>
+<b><i>I write code that works beautifully exactly once, then pretends we never met.</i></b><br><br>
 
-<b><i>Code: behaves like it has a personality 😤</i></b><br>
-<b><i>Me again: desperately tries to stay sane.</i></b>
+<b><i>Code: acts like it has emotions and opinions 😤</i></b><br>
+<b><i>Me: emotionally negotiating with it to just behave today.</i></b>
 
 </div>
 <br>
@@ -46,8 +46,8 @@
   />
 </div>
 
-<b><i>Looks like we’re on the same page.</i></b><br>
-<b><i>Here’s how you can reach the <s>perfectly put-together</s> <s>low-maintenance</s> human behind the chaos:</i></b><br><br>
+<b><i>Seems like we’ve reached mutual understanding.</i></b><br>
+<b><i>If you still insist on proceeding, here’s how to contact the <s>well-organized</s> <s>low-effort</s> human managing this chaos:</i></b><br><br>
 <br>
 <p align="center">
   <a href="mailto:arshi122022@gmail.com">
@@ -86,28 +86,28 @@
 <div >
   <!-- text on the right -->
   <div>
-    <b><i>What my brain is currently trained on:</i></b><br><br>
-    - B.Tech in Computer Science — learning to think logically while emotionally debugging life (^‿^)<br>
-    - Data Science & Data Analysis — turning uncooperative data into insights that pretend to behave (ಠ‿ಠ)<br>
-    - Predictive & Business Analytics — forecasting outcomes and translating numbers into decisions adults understand (ʘ‿ʘ)<br>
-    - AI / ML / Neural Networks — teaching machines patterns while questioning my own (ᕙ(⇀‸↼‶)ᕗ)<br>
-    - SQL & Informatica — building ETL pipelines and interrogating databases professionally (⌐■_■)<br>
-    - Python + Java + DSA — solid fundamentals, minimal drama, maximum emotional support (•_•)<br>
-
+    <b><i>Contents currently running in this overheating mental processor:</i></b><br><br>
+    - B.Tech in Computer Science — learning how to stay emotionally stable while code throws errors like it has personal issues (^‿^)<br>
+    - Data Science & Data Analysis — forcing chaotic datasets to confess patterns they were clearly hiding (ಠ‿ಠ)<br>
+    - Predictive & Business Analytics — professionally forecasting the future using statistics and controlled optimism (ʘ‿ʘ)<br>
+    - AI / ML / Neural Networks — building models that learn faster than I can explain what they’re doing (ᕙ(⇀‸↼‶)ᕗ)<br>
+    - Deep Learning — stacking layers of math until even I start pretending it makes perfect sense (•_•)<br>
+    - SQL — interrogating databases that respond only when they feel like it (⌐■_■)<br>
+    - Python + Java + DSA — writing “clean code” in theory while reality ships bugs with confidence (•_•)<br>
+  
   </div>
 
 </div>
 <br>
 <br>
 
-
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=So+many+languages,+frameworks+and+tools+to+learn...;Do+I+even+know+what+to+do+with+them%3F+Maybe+just+enough+to+use+ChatGPT%21" 
-    alt="Sarcastic Question about Skills and Tools" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Collecting+skills+across+different+tools+and+languages...;Trying+to+turn+them+into+something+cohesive."
+    alt="Skills Cohesion SVG"
   />
 </div>
 
@@ -150,15 +150,17 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=80&multiline=false&repeat=false&lines=So+many+technologies+to+master,+what+am+I+actually+focusing+on%3F" 
-    alt="Sarcastic Question about Current Focus" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Currently+focused+on+turning+%E2%80%9Cquick+fixes%E2%80%9D+into+permanent+architecture+decisions."
+    alt="Architecture Focus SVG"
   />
 </div>
 
+<br>
+<br>
 <img
-  src="https://i.pinimg.com/1200x/10/a8/4d/10a84d49e590b208a58a1214a5f3242a.jpg"
-  width="240"
-  height="240"
+  src="https://github.com/ArshiBansal/ArshiBansal/blob/main/focus%20sticker.png"
+  width="225"
+  height="250"
   align="right"
 />
 
@@ -166,13 +168,13 @@
 
 <b><i>Currently focused on:</i></b><br><br>
 
-<b><i>🙂 Data Science & Data Analysis</i></b> — turning raw data into ~~confusion~~ insights<br>
-<b><i>😄 Predictive Analytics</i></b> — forecasting outcomes with math and mild optimism<br>
-<b><i>😊 AI / Machine Learning / Neural Networks</i></b> — teaching models patterns I barely understand<br>
-<b><i>🙂 SQL & Databases</i></b> — asking tables the right questions (eventually)<br>
-<b><i>😌 Business Analysis</i></b> — making sure insights don’t die in a slide deck<br>
-<b><i>🙂 Python</i></b> — the glue holding all of this together<br>
-<b><i>😄 Java & DSA</i></b> — ~~survived~~ learned, still respected<br>
+<b><i>🙂 Data Science & Data Analysis</i></b> — turning raw chaos into “actionable insights” with confidence and selective blindness<br>
+<b><i>😄 Predictive Analytics</i></b> — forecasting outcomes using math, patterns, and hope that reality cooperates<br>
+<b><i>😊 AI / Machine Learning / Neural Networks</i></b> — building systems that learn patterns I’m still trying to fully decode myself<br>
+<b><i>🙂 SQL & Databases</i></b> — politely interrogating tables until they finally admit what I need<br>
+<b><i>😌 Business Analysis</i></b> — translating technical truth into slides that won’t get ignored in meetings<br>
+<b><i>🙂 Python</i></b> — the universal adapter for fixing everything and pretending it was planned<br>
+<b><i>😄 Java & DSA</i></b> — survived the struggle, still occasionally haunted by it<br>
 
 </div>
 <br>

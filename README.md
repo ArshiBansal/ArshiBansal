@@ -15,9 +15,9 @@
 </div>
 
 <img
-  src="https://i.pinimg.com/originals/88/4e/cb/884ecb28e4132c084ec6be43a90e495b.gif"
-  width="200"
-  height="200"
+  src="https://github.com/ArshiBansal/ArshiBansal/blob/main/kawaai%20sticker.png"
+  width="225"
+  height="300"
   align="right"
 />
 
@@ -41,7 +41,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=120&multiline=true&repeat=false&lines=Still+here%3F+Bold+choice.;Ready+to+turn+scrolling+into+a+conversation%3F"
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=120&multiline=true&repeat=false&lines=You+made+it+this+far%E2%80%A6+interesting.;Now+let%E2%80%99s+make+something+happen."
     alt="Contact Me Typing SVG"
   />
 </div>

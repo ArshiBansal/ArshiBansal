@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=880&height=220&multiline=true&repeat=false&lines=Me%3A+writes+clean+logic;Code%3A+fascinating+hypothesis;Runtime%3A+emotionally+disagrees;Output%3A+incorrect+with+confidence;Me%3A+appreciate+the+feedback+%F0%9F%98%8C" 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=880&height=220&multiline=true&repeat=false&lines=Me%3A+names+variables+clearly+and+trusts+the+code;Code%3A+trusts+the+process;Process%3A+trusts+nothing;Me+(later)%3A+what+is+this;Code%3A+refuses+explanation;Me%3A+reconsidering+all+life+choices" 
   />
 </div>
 
@@ -9,7 +9,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=32&duration=4000&pause=1200&color=00CC88&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Guess+who's+responsible+for+this+mess%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=32&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Guess+who's+responsible+for+this+mess%3F" 
     alt="Sarcastic Leading Question" 
   />
 </div>
@@ -41,7 +41,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=00CC88&center=true&vCenter=true&width=1000&height=120&multiline=true&repeat=false&lines=Still+here%3F+Bold+choice.;Ready+to+turn+scrolling+into+a+conversation%3F"
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=120&multiline=true&repeat=false&lines=Still+here%3F+Bold+choice.;Ready+to+turn+scrolling+into+a+conversation%3F"
     alt="Contact Me Typing SVG"
   />
 </div>
@@ -78,7 +78,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Ever+wonder+what+all+this+brainpower+is+actually+doing%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Ever+wonder+what+all+this+brainpower+is+actually+doing%3F" 
     alt="Sarcastic Leading Question about Skills" 
   />
 </div>
@@ -106,7 +106,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=So+many+languages,+frameworks+and+tools+to+learn...;Do+I+even+know+what+to+do+with+them%3F+Maybe+just+enough+to+use+ChatGPT%21" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=So+many+languages,+frameworks+and+tools+to+learn...;Do+I+even+know+what+to+do+with+them%3F+Maybe+just+enough+to+use+ChatGPT%21" 
     alt="Sarcastic Question about Skills and Tools" 
   />
 </div>
@@ -150,7 +150,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1000&height=80&multiline=false&repeat=false&lines=So+many+technologies+to+master,+what+am+I+actually+focusing+on%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=80&multiline=false&repeat=false&lines=So+many+technologies+to+master,+what+am+I+actually+focusing+on%3F" 
     alt="Sarcastic Question about Current Focus" 
   />
 </div>
@@ -184,7 +184,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=5500&pause=1200&color=00CC88&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Tools+armed%E2%80%A6+brain+slightly+fried%E2%80%A6;now+witness+the+glorious+mess+I+call+projects" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=5500&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Tools+armed%E2%80%A6+brain+slightly+fried%E2%80%A6;now+witness+the+glorious+mess+I+call+projects" 
     alt="Featured Projects Header"
   />
 </div>
@@ -307,7 +307,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&size=26&duration=4000&pause=1200&color=00CC88&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=Top+languages%2C+streaks%2C+and+contribution+charts...+yet+my+code+still+crashes+at+3+AM;and+all+these+GitHub+stats...+who%27s+keeping+track+of+my+sanity%3F"
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&size=26&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=Top+languages%2C+streaks%2C+and+contribution+charts...+yet+my+code+still+crashes+at+3+AM;and+all+these+GitHub+stats...+who%27s+keeping+track+of+my+sanity%3F"
   />
 </div>
 
@@ -333,7 +333,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Future+scope:+mastering+pipelines,+models,+and+dashboards.;But+will+my+code+ever+behave%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Future+scope:+mastering+pipelines,+models,+and+dashboards.;But+will+my+code+ever+behave%3F" 
     alt="Sarcastic Question about Future Scope" 
   />
 </div>
@@ -367,7 +367,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1000&height=160&multiline=true&repeat=false&lines=TL+DR:+Me,+my+chaotic+brain,+and+the+mess+I+call+code;+Fueled+by+caffeine,+curiosity+and+occasional+panic" 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=160&multiline=true&repeat=false&lines=TL+DR:+Me,+my+chaotic+brain,+and+the+mess+I+call+code;+Fueled+by+caffeine,+curiosity+and+occasional+panic" 
     alt="Sarcastic TL;DR About Me" 
   />
 </div>
@@ -386,7 +386,7 @@
 <br>
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=1000&height=260&multiline=true&repeat=false&lines=So+it+ends+here;Thanks+for+exploring+my+chaotic+GitHub+%F0%9F%98%AD;Hope+it+taught+you+something%E2%80%A6+or+at+least+entertained+%F0%9F%98%82;Don%E2%80%99t+blame+me+for+the+errors+%5E_%5E;Powered+by+ChatGPT+%F0%9F%A4%96,+full+credit+there+%F0%9F%98%85"
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=260&multiline=true&repeat=false&lines=So+it+ends+here;Thanks+for+exploring+my+chaotic+GitHub+%F0%9F%98%AD;Hope+it+taught+you+something%E2%80%A6+or+at+least+entertained+%F0%9F%98%82;Don%E2%80%99t+blame+me+for+the+errors+%5E_%5E;Powered+by+ChatGPT+%F0%9F%A4%96,+full+credit+there+%F0%9F%98%85"
     alt="Thank You Joke SVG"
   />
 </div>

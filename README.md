@@ -15,9 +15,9 @@
 </div>
 
 <img
-  src="https://github.com/ArshiBansal/ArshiBansal/blob/main/kawaai%20sticker.png"
-  width="225"
-  height="300"
+  src="https://github.com/ArshiBansal/ArshiBansal/blob/main/profile%20pic.png"
+  width="200"
+  height="250"
   align="right"
 />
 
@@ -335,13 +335,13 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Future+scope:+mastering+pipelines,+models,+and+dashboards.;But+will+my+code+ever+behave%3F" 
-    alt="Sarcastic Question about Future Scope" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Future+scope%3A+building+better+things%E2%80%A6+hopefully+with+fewer+surprises+along+the+way."
+    alt="Future Scope SVG"
   />
 </div>
 
 <img
-  src="https://i.pinimg.com/736x/f0/88/ac/f088ac16f22616b41992fadfdf6b7286.jpg"
+  src="https://github.com/ArshiBansal/ArshiBansal/blob/main/future%20scope%20pic.png"
   width="240"
   height="240"
   align="right"
@@ -349,15 +349,15 @@
 
 <div>
 
-<b><i>Probably not, but let’s pretend <s>miraculously</s> yes, because future scope <s>somehow</s> exists… </i></b><br><br>
+<b><i>Let’s assume this actually works out… statistically unlikely, but still on the roadmap.</i></b><br><br>
 
-<b><i>Growing as a Data Scientist</i></b> — working with complex data to drive impact (^‿^) <br>
-<b><i>Advancing in Predictive Analytics</i></b> — building models that stay reliable over time (ʘ‿ʘ) <br>
-<b><i>Deepening AI / ML / Neural Network expertise</i></b> — focusing on understanding, not just training (ಠ‿ಠ) <br>
-<b><i>Scaling work with SQL & Databases</i></b> — handling larger and messier systems (⌐■_■) <br>
-<b><i>Strengthening Business Analytics</i></b> — aligning insights with real decisions (¬‿¬) <br>
-<b><i>Designing cleaner data pipelines</i></b> — fewer hacks, more structure (ಠ_ಠ) <br>
-<b><i>Continuous learning</i></b> — because this field refuses to stand still (≧◡≦) <br>
+<b><i>Growing as a Data Scientist</i></b> — turning complex data into something vaguely meaningful (^‿^)<br>
+<b><i>Advancing in Predictive Analytics</i></b> — building models that behave… most of the time (ʘ‿ʘ)<br>
+<b><i>Deepening AI / ML / Neural Networks expertise</i></b> — trying to understand what I’m building while building it (ಠ‿ಠ)<br>
+<b><i>Scaling with SQL & Databases</i></b> — handling data that gets messier the more I look at it (⌐■_■)<br>
+<b><i>Strengthening Business Analytics</i></b> — turning insights into decisions people might actually use (¬‿¬)<br>
+<b><i>Designing cleaner data pipelines</i></b> — replacing chaos with slightly more organized chaos<br>
+<b><i>Continuous learning</i></b> — because the field updates faster than documentation does (≧◡≦)<br>
 
 </div>
           
@@ -369,27 +369,27 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=160&multiline=true&repeat=false&lines=TL+DR:+Me,+my+chaotic+brain,+and+the+mess+I+call+code;+Fueled+by+caffeine,+curiosity+and+occasional+panic" 
-    alt="Sarcastic TL;DR About Me" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=TLDR%3A+Caffeine-powered+logic+trying+to+outsmart+unexpected+bugs."
+    alt="TLDR SVG"
   />
 </div>
 
 <div align="center">
 
-<b><i>Who am I?</i></b> — Arshi Bansal: professional overthinker, data whisperer, and occasional bug creator 😎💻<br>
-<b><i>What I do?</i></b> — Turn messy datasets into slightly less terrifying insights, confuse ML models for fun, and occasionally convince myself I understand statistics 🤯<br>
-<b><i>Skills & Tools:</i></b> Python, Java, SQL, Power BI, Tableau, Streamlit, Jupyter, Python libraries & frameworks… basically everything that silently judges me 👀<br>
-<b><i>Current Focus:</i></b> Pipelines, dashboards, predictive models, and surviving debugging sessions without existential crises ⚡<br>
-<b><i>Fun Fact:</i></b> Solve equations at 3 AM, question my life at 4, then write code that only works on the 47th try 😵‍💫<br>
-<b><i>Bottom Line:</i></b> Code. Chaos. Coffee. Repeat. Bugs are not a bug, they’re a feature 😏💥
+<b><i>Who am I?</i></b> — Arshi Bansal: overthinker by default, data interpreter by training, and accidental bug engineer by experience 😎💻<br>
+<b><i>What I do?</i></b> — Translate messy datasets into somewhat usable insights, occasionally confuse ML models, and pretend statistics makes emotional sense 🤯<br>
+<b><i>Skills & Tools:</i></b> Python, Java, SQL, Power BI, Tableau, Streamlit, Jupyter, and an ever-growing list of things that silently intimidate me 👀<br>
+<b><i>Current Focus:</i></b> Building pipelines, dashboards, and models that behave better than my debugging sessions ⚡<br>
+<b><i>Fun Fact:</i></b> Solve problems at night, regret life choices in the morning, still ship code anyway 😵‍💫<br>
+<b><i>Bottom Line:</i></b> Write code. Create chaos. Consume coffee. Repeat. Bugs included free of charge 😏💥<br>
 
 </div>
 <br>
 <br>
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=260&multiline=true&repeat=false&lines=So+it+ends+here;Thanks+for+exploring+my+chaotic+GitHub+%F0%9F%98%AD;Hope+it+taught+you+something%E2%80%A6+or+at+least+entertained+%F0%9F%98%82;Don%E2%80%99t+blame+me+for+the+errors+%5E_%5E;Powered+by+ChatGPT+%F0%9F%A4%96,+full+credit+there+%F0%9F%98%85"
-    alt="Thank You Joke SVG"
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=That%E2%80%99s+a+wrap%E2%80%A6+thanks+for+scrolling+through+my+code+universe.;Hope+it+made+sense%E2%80%A6+or+at+least+made+you+smile.;Errors+are+unintentional+collaborators.;Built+with+curiosity%2C+caffeine%2C+and+a+bit+of+chaos."
+    alt="Code Universe Wrap SVG"
   />
 </div>
 <br>

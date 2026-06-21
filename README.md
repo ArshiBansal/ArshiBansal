@@ -93,8 +93,7 @@
     - AI / ML / Neural Networks — building models that learn faster than I can explain what they’re doing (ᕙ(⇀‸↼‶)ᕗ)<br>
     - Deep Learning — stacking layers of math until even I start pretending it makes perfect sense (•_•)<br>
     - SQL — interrogating databases that respond only when they feel like it (⌐■_■)<br>
-    - Python + Java + DSA — writing “clean code” in theory while reality ships bugs with confidence (•_•)<br>
-  
+    - Python + Java + DSA — writing “clean code” in theory while reality ships bugs with confidence (•_•)<br>  
   </div>
 
 </div>
@@ -129,6 +128,7 @@
 <b><i>Tools & Platforms that judge me (◕‿◕) :</i></b><br><br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,git,vscode,bash,postman&theme=dark" height="60"/>
+    <img src="https://cdn.simpleicons.org/n8n" height="60" alt="n8n"/>
 </p>
 
 <b><i>Data Science / ML Libraries I feed caffeine to (◠‿◠) :</i></b><br><br>
@@ -173,6 +173,7 @@
 <b><i>😊 AI / Machine Learning / Neural Networks</i></b> — building systems that learn patterns I’m still trying to fully decode myself<br>
 <b><i>🙂 SQL & Databases</i></b> — politely interrogating tables until they finally admit what I need<br>
 <b><i>😌 Business Analysis</i></b> — translating technical truth into slides that won’t get ignored in meetings<br>
+<b><i>🙂 Workflow Automation (n8n)</i></b> — connecting APIs and automating repetitive tasks so future me has fewer reasons to complain<br>
 <b><i>🙂 Python</i></b> — the universal adapter for fixing everything and pretending it was planned<br>
 <b><i>😄 Java & DSA</i></b> — survived the struggle, still occasionally haunted by it<br>
 
@@ -317,13 +318,19 @@
 
 <!-- First row (2 side by side) -->
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArshiBansal&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true" width="45%"/><img src="https://streak-stats.demolab.com?user=ArshiBansal&theme=blue-green&hide_border=true" width="45%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&bg_color=0D1117&border_color=30363D"
+    width="44%"
+  />  <img
+    src="https://streak-stats.demolab.com?user=ArshiBansal&theme=github-dark-blue&hide_border=false&border=30363D&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"
+    width="44%"
+  />
 </p>
 
 <!-- Second row (centered single card) -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&langs_count=8&theme=blue-green&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&langs_count=8&title_color=3B82F6&text_color=C9D1D9&bg_color=0D1117&border_color=30363D"
     width="45%"
   />
 </p>
@@ -356,6 +363,7 @@
 <b><i>Deepening AI / ML / Neural Networks expertise</i></b> — trying to understand what I’m building while building it (ಠ‿ಠ)<br>
 <b><i>Scaling with SQL & Databases</i></b> — handling data that gets messier the more I look at it (⌐■_■)<br>
 <b><i>Strengthening Business Analytics</i></b> — turning insights into decisions people might actually use (¬‿¬)<br>
+<b><i>Exploring workflow automation</i></b> — making services talk to each other while I pretend it was effortless
 <b><i>Designing cleaner data pipelines</i></b> — replacing chaos with slightly more organized chaos<br>
 <b><i>Continuous learning</i></b> — because the field updates faster than documentation does (≧◡≦)<br>
 

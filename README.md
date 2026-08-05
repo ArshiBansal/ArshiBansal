@@ -122,7 +122,7 @@
 
 <b><i>Databases I sweet-talk to survive (•‿•) :</i></b><br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" height="65"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" height="65"/>
 </p>
 
 <b><i>Tools & Platforms that judge me (◕‿◕) :</i></b><br><br>

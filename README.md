@@ -225,7 +225,7 @@
   <p>
     Warning: the market doesn’t read my code 😅.
   </p>
-  <a href="https://github.com/ArshiBansal/Stocks_Analysis" target="_blank">Check the Thrill 💀</a>
+  <a href="https://github.com/ArshiBansal/Stock_Market_Analysis" target="_blank">Check the Thrill 💀</a>
 </div>
 
 <!-- Project 3 -->

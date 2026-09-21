@@ -127,8 +127,10 @@
 
 <b><i>Tools & Platforms that judge me (◕‿◕) :</i></b><br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,bash,postman&theme=dark" height="60"/>
-    <img src="https://cdn.simpleicons.org/n8n" height="60" alt="n8n"/>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,bash,postman,kafka&theme=dark" height="60"/>
+  <img src="https://cdn.simpleicons.org/apachehadoop" height="60" alt="Hadoop"/>
+  <img src="https://cdn.simpleicons.org/apachespark" height="60" alt="Spark"/>
+  <img src="https://cdn.simpleicons.org/n8n" height="60" alt="n8n"/>
 </p>
 
 <b><i>Data Science / ML Libraries I feed caffeine to (◠‿◠) :</i></b><br><br>

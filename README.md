@@ -203,6 +203,20 @@
 
 <!-- Project 1 -->
 <div align="left">
+<img width="60" height="60" alt="PhreshPhish" src="https://cdn-icons-png.flaticon.com/512/2092/2092665.png" />
+  <h3>PhreshPhish Classifier</h3>
+  <p>
+    Built with Python, XGBoost, Transformers, Gradio, and an unhealthy amount of HTML cleaning 🐍⚡.  
+    Trained on a massive real-world phishing dataset to catch shady webpages while desperately trying to keep false positives low.  
+    Turns chaotic URLs + HTML into “Phish” or “Legit” with high precision… most of the time 🕵️‍♂️💻.
+  </p>
+  <p>
+    Side effects may include sudden trust issues with every login page and the urge to inspect element everything 😅🔒.  </p>
+  <a href="https://github.com/ArshiBansal/phreshphish-classifier" target="_blank">Hunt the Phish 🎣</a>
+</div>
+
+<!-- Project 2-->
+<div align="right">
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/63224b6b-3847-4e9c-9519-4ac218e95bc9" />
   <h3>News Sentiments Analyser</h3>
   <p>
@@ -211,13 +225,13 @@
     Turns chaotic headlines into “Bullish”, “Bearish”, or “Neutral” insights while I pretend I understand the market’s mood swings 🤯.
   </p>
   <p>
-    Warning: may cause sudden existential dread, panic about investments, or the urge to doom-scroll endlessly 😅📈.
+    May trigger existential dread, portfolio panic, or endless doom-scrolling 😅📈.
   </p>
   <a href="https://github.com/ArshiBansal/NEWS_SENTIMENTS_ANALYSER" target="_blank">Catch the Sentiment 📰</a>
 </div>
 
-<!-- Project 2 -->
-<div align="right">
+<!-- Project 3 -->
+<div align="left">
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/8a1df96a-3e27-4c33-89ee-cb56ffb22224" />
   <h3>Stocks Analysis </h3>
   <p>
@@ -230,8 +244,8 @@
   <a href="https://github.com/ArshiBansal/Stock_Market_Analysis" target="_blank">Check the Thrill 💀</a>
 </div>
 
-<!-- Project 3 -->
-<div align="left">
+<!-- Project 4 -->
+<div align="right">
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/dbd7a3e6-884c-445b-abdf-57d7f5c04155" />
   <h3>Real Estates Analysis </h3>
   <p>
@@ -240,13 +254,12 @@
     Turns raw property data into insights that might make you question your life choices 🏘️🤯.
   </p>
   <p>
-    Warning: data might make you question your life choices 🏘️🤯.
-  </p>
+    Disclaimer: the market doesn’t read my code 😅.  </p>
   <a href="https://github.com/ArshiBansal/Real_Estates_Analysis" target="_blank">Enter the Mansion of Madness 🏘️</a>
 </div>
 
-<!-- Project 4 -->
-<div align="right">
+<!-- Project 5 -->
+<div align="left">
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/eae42918-ed0e-42c3-afc3-43b03dc47473" />
   <h3>Anime EDA & Recommendation </h3>
   <p>
@@ -259,8 +272,8 @@
   <a href="https://github.com/ArshiBansal/Anime_EDA_and_Recommendation_System" target="_blank">Dive in 🍿</a>
 </div>
 
-<!-- Project 5 -->
-<div align="left">
+<!-- Project 6 -->
+<div align="right">
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/7bed0a9e-cc07-4e6c-9927-24ac1eed7083" />
   <h3>Expense Tracker </h3>
   <p>
@@ -271,20 +284,6 @@
     Heads up: may induce guilt, regret, and sudden urges to check your wallet 😅💰.
   </p>
   <a href="https://github.com/ArshiBansal/Expense_tracker" target="_blank">See the chaos 💀</a>
-</div>
-
-<!-- Project 6 -->
-<div align="right">
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/c2a07b7d-1849-466d-9c6c-c284bb97a160" />
-  <h3>Page Replacement Simulator </h3>
-  <p>
-    Built with Python and a simple GUI to show virtual memory algorithms in action 🖥️⚡. 
-    Implements FIFO, Optimal, LRU, and MRU strategies while I <s>pretend I fully understand OS</s> 🤯. 
-  </p>
-  <p>
-    Brace yourself: may make you rethink every time your program crashes unexpectedly 😅💥.
-  </p>
-  <a href="https://github.com/ArshiBansal/PageReplacementSimulator" target="_blank">Geek mode ON ⚡</a>
 </div>
 
 <!-- Project 7 -->

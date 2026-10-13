@@ -103,8 +103,9 @@
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 <br>
+
 <div align="center">
-  <img 
+  <img
     src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Collecting+skills+across+different+tools+and+languages...;Trying+to+turn+them+into+something+cohesive."
     alt="Skills Cohesion SVG"
   />
@@ -112,39 +113,46 @@
 
 <b><i>Languages I torture myself with daily (^_^) :</i></b><br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python&theme=dark" height="55" alt="C++, Java and Python"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="55" height="55" alt="SQL"/>
 </p>
 
-<b><i>Frontend & Backend wizardry (o_o) :</i></b><br><br>
+<b><i>Data Science & Machine Learning I feed caffeine to (◠‿◠) :</i></b><br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,fastapi&theme=dark" height="60"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" height="55" alt="Python, TensorFlow, PyTorch, Keras and Scikit-learn"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="55" width="55" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="55" width="55" alt="NumPy"/>
+</p>
+
+<b><i>Data Visualisation Tools that stare at me (ಠ_ಠ) :</i></b><br><br>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/matplotlib/default.svg" width="55" height="55" alt="Matplotlib"/>  
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="55" width="55" alt="Plotly"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="55" width="55" alt="Streamlit"/>
 </p>
 
 <b><i>Databases I sweet-talk to survive (•‿•) :</i></b><br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" height="65"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" height="55" alt="MySQL, PostgreSQL and MongoDB"/>
+</p>
+
+<b><i>Big Data Technologies I use to handle the chaos (¬‿¬) :</i></b><br><br>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="55" height="55" alt="Apache Spark"/>
+  <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" width="55" height="55" alt="Hadoop"/>
+  <img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="55" height="55" alt="Apache Hive"/>
+  <img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" width="55" height="55" alt="Apache Kafka"/>
 </p>
 
 <b><i>Tools & Platforms that judge me (◕‿◕) :</i></b><br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,bash,postman,kafka&theme=dark" height="60"/>
-  <img src="https://cdn.simpleicons.org/apachehadoop" height="60" alt="Hadoop"/>
-  <img src="https://cdn.simpleicons.org/apachespark" height="60" alt="Spark"/>
-  <img src="https://cdn.simpleicons.org/n8n" height="60" alt="n8n"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" height="55" alt="Git, GitHub and Postman"/>
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="55" height="55" alt="Jupyter"/>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="55" height="55" alt="n8n"/>
 </p>
 
-<b><i>Data Science / ML Libraries I feed caffeine to (◠‿◠) :</i></b><br><br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="60"/>
-</p>
-
-<b><i>Data Visualization & BI Tools that stare at me (ಠ_ಠ) :</i></b><br><br>
-<p align="center">
-  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" title="Power BI: plotting my life"/></a>
-  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau: making dashboards scream"/></a>
-  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter: notebooks of despair"/></a>
-</p>
 <br>
+
 <br>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>

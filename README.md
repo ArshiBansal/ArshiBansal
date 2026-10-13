@@ -211,16 +211,17 @@
 
 <!-- Project 1 -->
 <div align="left">
-<img width="60" height="60" alt="PhreshPhish" src="https://cdn-icons-png.flaticon.com/512/2092/2092665.png" />
-  <h3>PhreshPhish Classifier</h3>
+  <img width="60" height="60" alt="Suspicious URL Scanner" src="https://img.icons8.com/ios-filled/100/38BDF8/link.png" />
+  <h3>Intelligent URL Threat Analyzer</h3>
   <p>
-    Built with Python, XGBoost, Transformers, Gradio, and an unhealthy amount of HTML cleaning 🐍⚡.  
-    Trained on a massive real-world phishing dataset to catch shady webpages while desperately trying to keep false positives low.  
-    Turns chaotic URLs + HTML into “Phish” or “Legit” with high precision… most of the time 🕵️‍♂️💻.
+    Streamlit-powered phishing detector that sniffs out shady URLs and sketchy webpages 
+    using classical ML + NLP on the PhreshPhish dataset. MongoDB keeps score of every 
+    suspicious link that tries to slide past.
   </p>
   <p>
-    Side effects may include sudden trust issues with every login page and the urge to inspect element everything 😅🔒.  </p>
-  <a href="https://github.com/ArshiBansal/phreshphish-classifier" target="_blank">Hunt the Phish 🎣</a>
+    Heads up: may cause sudden distrust of every “Verify your account” email 🛡️💀.
+  </p>
+  <a href="https://github.com/ArshiBansal/Intelligent_URL_Threat_Analyzer" target="_blank">See the defenses 🔍</a>
 </div>
 
 <!-- Project 2-->
@@ -278,20 +279,6 @@
     Disclaimer: binge recommendations may <s>ruin your sleep schedule</s> and question your life choices 🤯😅.
   </p>
   <a href="https://github.com/ArshiBansal/Anime_EDA_and_Recommendation_System" target="_blank">Dive in 🍿</a>
-</div>
-
-<!-- Project 6 -->
-<div align="right">
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/7bed0a9e-cc07-4e6c-9927-24ac1eed7083" />
-  <h3>Expense Tracker </h3>
-  <p>
-    Built entirely with Java Swing  to track expenses, budgets, and financial disasters. 
-    Helps me (and hopefully you) figure out where all the money <s>mysteriously disappears</s> 💀💸. 
-  </p>
-  <p>
-    Heads up: may induce guilt, regret, and sudden urges to check your wallet 😅💰.
-  </p>
-  <a href="https://github.com/ArshiBansal/Expense_tracker" target="_blank">See the chaos 💀</a>
 </div>
 
 </div>

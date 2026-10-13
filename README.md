@@ -294,20 +294,6 @@
   <a href="https://github.com/ArshiBansal/Expense_tracker" target="_blank">See the chaos 💀</a>
 </div>
 
-<!-- Project 7 -->
-<div align="left">
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/e4d2b885-2924-4d2e-9906-0c40f9e5e773" />
-  <h3>Cyber Crime Analysis</h3>
-  <p>
-    Built entirely with Python and its libraries 🐍 to analyze cyber crime trends, detect patterns, and <s>pretend I understand hackers</s> 🔍💻. 
-    Turns chaotic cyber data into slightly less chaos while I question if my own passwords are safe. 
-  </p>
-  <p>
-    Enter at your own risk: may cause paranoia and sudden urges to change passwords 😅🔐.
-  </p>
-  <a href="https://github.com/ArshiBansal/Cyber_Crime_Analysis" target="_blank">Investigate 🔍</a>
-</div>
-
 </div>
 </div>
 

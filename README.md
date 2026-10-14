@@ -211,7 +211,7 @@
 
 <!-- Project 1 -->
 <div align="left">
-  <img width="60" height="60" alt="Suspicious URL Scanner" src="https://img.icons8.com/ios-filled/100/38BDF8/link.png" />
+  <img width="60" height="60" alt="Suspicious URL Scanner" src="https://img.icons8.com/ios-filled/100/FFFFFF/link.png" />
   <h3>Intelligent URL Threat Analyzer</h3>
   <p>
     Streamlit-powered phishing detector that sniffs out shady URLs and sketchy webpages 

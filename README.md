@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=880&height=220&multiline=true&repeat=false&lines=Me%3A+names+variables+clearly+and+trusts+the+code;Code%3A+trusts+the+process;Process%3A+trusts+nothing;Me+(later)%3A+what+is+this;Code%3A+refuses+explanation;Me%3A+reconsidering+all+life+choices" 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=900&color=6D5BD0&center=true&vCenter=true&width=880&height=220&multiline=true&repeat=false&lines=Me%3A+names+variables+clearly+and+trusts+the+code;Code%3A+trusts+the+process;Process%3A+trusts+nothing;Me+(later)%3A+what+is+this;Code%3A+refuses+explanation;Me%3A+reconsidering+all+life+choices" 
   />
 </div>
 
@@ -9,7 +9,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=32&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Guess+who's+responsible+for+this+mess%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=32&duration=4000&pause=1200&color=6D5BD0&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Guess+who's+responsible+for+this+mess%3F" 
     alt="Sarcastic Leading Question" 
   />
 </div>
@@ -41,7 +41,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=120&multiline=true&repeat=false&lines=You+made+it+this+far%E2%80%A6+interesting.;Now+let%E2%80%99s+make+something+happen."
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=6D5BD0&center=true&vCenter=true&width=1000&height=120&multiline=true&repeat=false&lines=You+made+it+this+far%E2%80%A6+interesting.;Now+let%E2%80%99s+make+something+happen."
     alt="Contact Me Typing SVG"
   />
 </div>
@@ -78,7 +78,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Ever+wonder+what+all+this+brainpower+is+actually+doing%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=6D5BD0&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Ever+wonder+what+all+this+brainpower+is+actually+doing%3F" 
     alt="Sarcastic Leading Question about Skills" 
   />
 </div>
@@ -106,7 +106,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Collecting+skills+across+different+tools+and+languages...;Trying+to+turn+them+into+something+cohesive."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2800&pause=900&color=6D5BD0&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Collecting+skills+across+different+tools+and+languages...;Trying+to+turn+them+into+something+cohesive."
     alt="Skills Cohesion SVG"
   />
 </div>
@@ -160,7 +160,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Currently+focused+on+turning+%E2%80%9Cquick+fixes%E2%80%9D+into+permanent+architecture+decisions."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=6D5BD0&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Currently+focused+on+turning+%E2%80%9Cquick+fixes%E2%80%9D+into+permanent+architecture+decisions."
     alt="Architecture Focus SVG"
   />
 </div>
@@ -197,7 +197,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=5500&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Tools+armed%E2%80%A6+brain+slightly+fried%E2%80%A6;now+witness+the+glorious+mess+I+call+projects" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=5500&pause=1200&color=6D5BD0&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Tools+armed%E2%80%A6+brain+slightly+fried%E2%80%A6;now+witness+the+glorious+mess+I+call+projects" 
     alt="Featured Projects Header"
   />
 </div>
@@ -219,7 +219,7 @@
     suspicious link that tries to slide past.
   </p>
   <p>
-    Heads up: may cause sudden distrust of every “Verify your account” email 🛡️💀.
+    Heads up: may cause sudden distrust of every “Verify your account” email 💀.
   </p>
   <a href="https://github.com/ArshiBansal/Intelligent_URL_Threat_Analyzer" target="_blank">See the defenses 🔍</a>
 </div>
@@ -292,7 +292,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&size=26&duration=4000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=Top+languages%2C+streaks%2C+and+contribution+charts...+yet+my+code+still+crashes+at+3+AM;and+all+these+GitHub+stats...+who%27s+keeping+track+of+my+sanity%3F"
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&size=26&duration=4000&pause=1200&color=6D5BD0&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=Top+languages%2C+streaks%2C+and+contribution+charts...+yet+my+code+still+crashes+at+3+AM;and+all+these+GitHub+stats...+who%27s+keeping+track+of+my+sanity%3F"
   />
 </div>
 
@@ -324,7 +324,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Future+scope%3A+building+better+things%E2%80%A6+hopefully+with+fewer+surprises+along+the+way."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=6D5BD0&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Future+scope%3A+building+better+things%E2%80%A6+hopefully+with+fewer+surprises+along+the+way."
     alt="Future Scope SVG"
   />
 </div>
@@ -359,7 +359,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=TLDR%3A+Caffeine-powered+logic+trying+to+outsmart+unexpected+bugs."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=6D5BD0&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=TLDR%3A+Caffeine-powered+logic+trying+to+outsmart+unexpected+bugs."
     alt="TLDR SVG"
   />
 </div>
@@ -378,7 +378,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=That%E2%80%99s+a+wrap%E2%80%A6+thanks+for+scrolling+through+my+code+universe.;Hope+it+made+sense%E2%80%A6+or+at+least+made+you+smile.;Errors+are+unintentional+collaborators.;Built+with+curiosity%2C+caffeine%2C+and+a+bit+of+chaos."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=900&color=6D5BD0&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=That%E2%80%99s+a+wrap%E2%80%A6+thanks+for+scrolling+through+my+code+universe.;Hope+it+made+sense%E2%80%A6+or+at+least+made+you+smile.;Errors+are+unintentional+collaborators.;Built+with+curiosity%2C+caffeine%2C+and+a+bit+of+chaos."
     alt="Code Universe Wrap SVG"
   />
 </div>

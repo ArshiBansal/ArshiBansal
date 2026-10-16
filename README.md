@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=900&color=6D5BD0&center=true&vCenter=true&width=880&height=220&multiline=true&repeat=false&lines=Me%3A+names+variables+clearly+and+trusts+the+code;Code%3A+trusts+the+process;Process%3A+trusts+nothing;Me+(later)%3A+what+is+this;Code%3A+refuses+explanation;Me%3A+reconsidering+all+life+choices" 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=900&color=B08968&center=true&vCenter=true&width=880&height=220&multiline=true&repeat=false&lines=Me%3A+names+variables+clearly+and+trusts+the+code;Code%3A+trusts+the+process;Process%3A+trusts+nothing;Me+(later)%3A+what+is+this;Code%3A+refuses+explanation;Me%3A+reconsidering+all+life+choices" 
   />
 </div>
 
@@ -9,7 +9,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=32&duration=4000&pause=1200&color=6D5BD0&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Guess+who's+responsible+for+this+mess%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=32&duration=4000&pause=1200&color=B08968&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Guess+who's+responsible+for+this+mess%3F" 
     alt="Sarcastic Leading Question" 
   />
 </div>
@@ -41,7 +41,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=6D5BD0&center=true&vCenter=true&width=1000&height=120&multiline=true&repeat=false&lines=You+made+it+this+far%E2%80%A6+interesting.;Now+let%E2%80%99s+make+something+happen."
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=B08968&center=true&vCenter=true&width=1000&height=120&multiline=true&repeat=false&lines=You+made+it+this+far%E2%80%A6+interesting.;Now+let%E2%80%99s+make+something+happen."
     alt="Contact Me Typing SVG"
   />
 </div>
@@ -78,7 +78,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=6D5BD0&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Ever+wonder+what+all+this+brainpower+is+actually+doing%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=4000&pause=1200&color=B08968&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Ever+wonder+what+all+this+brainpower+is+actually+doing%3F" 
     alt="Sarcastic Leading Question about Skills" 
   />
 </div>
@@ -106,7 +106,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2800&pause=900&color=6D5BD0&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Collecting+skills+across+different+tools+and+languages...;Trying+to+turn+them+into+something+cohesive."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2800&pause=900&color=B08968&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Collecting+skills+across+different+tools+and+languages...;Trying+to+turn+them+into+something+cohesive."
     alt="Skills Cohesion SVG"
   />
 </div>
@@ -160,7 +160,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=6D5BD0&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Currently+focused+on+turning+%E2%80%9Cquick+fixes%E2%80%9D+into+permanent+architecture+decisions."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=B08968&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Currently+focused+on+turning+%E2%80%9Cquick+fixes%E2%80%9D+into+permanent+architecture+decisions."
     alt="Architecture Focus SVG"
   />
 </div>
@@ -197,7 +197,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=5500&pause=1200&color=6D5BD0&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Tools+armed%E2%80%A6+brain+slightly+fried%E2%80%A6;now+witness+the+glorious+mess+I+call+projects" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=5500&pause=1200&color=B08968&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Tools+armed%E2%80%A6+brain+slightly+fried%E2%80%A6;now+witness+the+glorious+mess+I+call+projects" 
     alt="Featured Projects Header"
   />
 </div>
@@ -211,7 +211,6 @@
 
 <!-- Project 1 -->
 <div align="left">
-  <img width="60" height="60" alt="Suspicious URL Scanner" src="https://img.icons8.com/ios-filled/100/FFFFFF/link.png" />
   <h3>Intelligent URL Threat Analyzer</h3>
   <p>
     Streamlit-powered phishing detector that sniffs out shady URLs and sketchy webpages 
@@ -226,7 +225,6 @@
 
 <!-- Project 2-->
 <div align="right">
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/63224b6b-3847-4e9c-9519-4ac218e95bc9" />
   <h3>News Sentiments Analyser</h3>
   <p>
     Built with Python, Streamlit, VADER sentiment analysis, and an unhealthy obsession with the news 📰💻.  
@@ -241,7 +239,6 @@
 
 <!-- Project 3 -->
 <div align="left">
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/8a1df96a-3e27-4c33-89ee-cb56ffb22224" />
   <h3>Stocks Analysis </h3>
   <p>
     Crunching historical stock data with Python, Jupyter Notebook, ML algorithms, and Python libraries to <s>predict</s> the unpredictable. 
@@ -255,7 +252,6 @@
 
 <!-- Project 4 -->
 <div align="right">
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/dbd7a3e6-884c-445b-abdf-57d7f5c04155" />
   <h3>Real Estates Analysis </h3>
   <p>
     Using Power BI to predict the unpredictable world of real estate 📊.     
@@ -267,21 +263,6 @@
   <a href="https://github.com/ArshiBansal/Real_Estates_Analysis" target="_blank">Enter the Mansion of Madness 🏘️</a>
 </div>
 
-<!-- Project 5 -->
-<div align="left">
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/eae42918-ed0e-42c3-afc3-43b03dc47473" />
-  <h3>Anime EDA & Recommendation </h3>
-  <p>
-    Using SQL, Power BI, Python, Jupyter Notebook, ML algorithms, and Python libraries to analyze anime trends, viewer preferences, and ratings 📊🍿. 
-    Includes a Streamlit web app where you can filter your preferences by genre, rating, and popularity. 
-  </p>
-  <p>
-    Disclaimer: binge recommendations may <s>ruin your sleep schedule</s> and question your life choices 🤯😅.
-  </p>
-  <a href="https://github.com/ArshiBansal/Anime_EDA_and_Recommendation_System" target="_blank">Dive in 🍿</a>
-</div>
-
-</div>
 </div>
 
 <br>
@@ -292,7 +273,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&size=26&duration=4000&pause=1200&color=6D5BD0&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=Top+languages%2C+streaks%2C+and+contribution+charts...+yet+my+code+still+crashes+at+3+AM;and+all+these+GitHub+stats...+who%27s+keeping+track+of+my+sanity%3F"
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&size=26&duration=4000&pause=1200&color=B08968&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=Top+languages%2C+streaks%2C+and+contribution+charts...+yet+my+code+still+crashes+at+3+AM;and+all+these+GitHub+stats...+who%27s+keeping+track+of+my+sanity%3F"
   />
 </div>
 
@@ -301,10 +282,11 @@
 <!-- First row (2 side by side) -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&bg_color=0D1117&border_color=30363D"
+    src="https://github-readme-stats.vercel.app/api?username=ArshiBansal&show_icons=true&rank_icon=github&title_color=C49A7A&icon_color=C49A7A&text_color=C9D1D9&bg_color=0D1117&border_color=30363D"
     width="44%"
-  />  <img
-    src="https://streak-stats.demolab.com?user=ArshiBansal&theme=github-dark-blue&hide_border=false&border=30363D&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=ArshiBansal&theme=github-dark-blue&hide_border=false&background=0D1117&border=30363D&ring=C49A7A&fire=C49A7A&currStreakLabel=C49A7A&sideLabels=C49A7A&currStreakNum=C49A7A&sideNums=C49A7A&dates=C49A7A"
     width="44%"
   />
 </p>
@@ -312,11 +294,12 @@
 <!-- Second row (centered single card) -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&langs_count=8&title_color=3B82F6&text_color=C9D1D9&bg_color=0D1117&border_color=30363D"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&langs_count=8&title_color=C49A7A&text_color=C9D1D9&bg_color=0D1117&border_color=30363D"
     width="45%"
   />
 </p>
 <br>
+
 <br>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
@@ -324,7 +307,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=6D5BD0&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Future+scope%3A+building+better+things%E2%80%A6+hopefully+with+fewer+surprises+along+the+way."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=B08968&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Future+scope%3A+building+better+things%E2%80%A6+hopefully+with+fewer+surprises+along+the+way."
     alt="Future Scope SVG"
   />
 </div>
@@ -359,7 +342,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=6D5BD0&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=TLDR%3A+Caffeine-powered+logic+trying+to+outsmart+unexpected+bugs."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=B08968&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=TLDR%3A+Caffeine-powered+logic+trying+to+outsmart+unexpected+bugs."
     alt="TLDR SVG"
   />
 </div>
@@ -378,7 +361,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=900&color=6D5BD0&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=That%E2%80%99s+a+wrap%E2%80%A6+thanks+for+scrolling+through+my+code+universe.;Hope+it+made+sense%E2%80%A6+or+at+least+made+you+smile.;Errors+are+unintentional+collaborators.;Built+with+curiosity%2C+caffeine%2C+and+a+bit+of+chaos."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=900&color=B08968&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=That%E2%80%99s+a+wrap%E2%80%A6+thanks+for+scrolling+through+my+code+universe.;Hope+it+made+sense%E2%80%A6+or+at+least+made+you+smile.;Errors+are+unintentional+collaborators.;Built+with+curiosity%2C+caffeine%2C+and+a+bit+of+chaos."
     alt="Code Universe Wrap SVG"
   />
 </div>

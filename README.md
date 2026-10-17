@@ -205,8 +205,6 @@
 <br>
 <div align="left">
 
-<b><i>Projects that survived my brain (<s>mostly</s>) 😵‍💫💥</i></b><br><br>
-
 <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
 <!-- Project 1 -->

@@ -192,23 +192,33 @@
 <br>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
-
 <br>
-
 <div align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=5500&pause=1200&color=B08968&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Tools+armed%E2%80%A6+brain+slightly+fried%E2%80%A6;now+witness+the+glorious+mess+I+call+projects" 
     alt="Featured Projects Header"
   />
 </div>
-
 <br>
 <div align="left">
-
 <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<!-- Project 1 -->
+<!-- Project 1: Credit Card Fraud Detection -->
 <div align="left">
+  <h3>Credit Card Fraud Detection</h3>
+  <p>
+    End-to-end fraud detection pipeline built entirely in Jupyter Notebooks on the classic ULB dataset. 
+    Fought extreme class imbalance with SMOTE, trained XGBoost & LightGBM, explained everything with SHAP, 
+    and even optimized thresholds based on real business costs. All while pretending 0.17% fraud rate is totally fine.
+  </p>
+  <p>
+    Warning: may cause sudden suspicion of every online purchase you make 💳💀.
+  </p>
+  <a href="https://github.com/ArshiBansal/credit_card_fraud_detection" target="_blank">Catch the Frauds 🕵️‍♂️</a>
+</div>
+
+<!-- Project 2 -->
+<div align="right">
   <h3>Intelligent URL Threat Analyzer</h3>
   <p>
     Streamlit-powered phishing detector that sniffs out shady URLs and sketchy webpages 
@@ -221,8 +231,8 @@
   <a href="https://github.com/ArshiBansal/Intelligent_URL_Threat_Analyzer" target="_blank">See the defenses 🔍</a>
 </div>
 
-<!-- Project 2-->
-<div align="right">
+<!-- Project 3 -->
+<div align="left">
   <h3>News Sentiments Analyser</h3>
   <p>
     Built with Python, Streamlit, VADER sentiment analysis, and an unhealthy obsession with the news 📰💻.  
@@ -235,8 +245,8 @@
   <a href="https://github.com/ArshiBansal/NEWS_SENTIMENTS_ANALYSER" target="_blank">Catch the Sentiment 📰</a>
 </div>
 
-<!-- Project 3 -->
-<div align="left">
+<!-- Project 4 -->
+<div align="right">
   <h3>Stocks Analysis </h3>
   <p>
     Crunching historical stock data with Python, Jupyter Notebook, ML algorithms, and Python libraries to <s>predict</s> the unpredictable. 
@@ -248,8 +258,8 @@
   <a href="https://github.com/ArshiBansal/Stock_Market_Analysis" target="_blank">Check the Thrill 💀</a>
 </div>
 
-<!-- Project 4 -->
-<div align="right">
+<!-- Project 5 -->
+<div align="left">
   <h3>Real Estates Analysis </h3>
   <p>
     Using Power BI to predict the unpredictable world of real estate 📊.     
@@ -262,7 +272,6 @@
 </div>
 
 </div>
-
 <br>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>

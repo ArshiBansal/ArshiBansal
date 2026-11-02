@@ -248,12 +248,15 @@
 <!-- Project 4 -->
 <div align="right">
   <h3>Stocks Analysis </h3>
+<p>
+    A complete stock market forecasting system built with Python, Streamlit, 
+    Classical Machine Learning, and Deep Learning (LSTM/GRU).  
+    Monitors 65 high-profile global companies, engineers technical features, 
+    compares multiple forecasting models, and evaluates them using chronological validation.
+ </p>
   <p>
-    Crunching historical stock data with Python, Jupyter Notebook, ML algorithms, and Python libraries to <s>predict</s> the unpredictable. 
-    Turns raw chaos into trends that might fool you into thinking I know what I’m doing 💸🤯. 
-  </p>
-  <p>
-    Warning: the market doesn’t read my code 😅.
+    Attempts to predict short-term price movements — while fully acknowledging 
+    that the market remains unpredictable
   </p>
   <a href="https://github.com/ArshiBansal/Stock_Market_Analysis" target="_blank">Check the Thrill 💀</a>
 </div>

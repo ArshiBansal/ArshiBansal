@@ -233,14 +233,16 @@
 
 <!-- Project 3 -->
 <div align="left">
-  <h3>News Sentiments Analyser</h3>
+  <h3>News Pulse — Real-Time Crypto & Equity Sentiment Dashboard</h3>
   <p>
     Built with Python, Streamlit, VADER sentiment analysis, and an unhealthy obsession with the news 📰💻.  
-    This app scrapes crypto and stock headlines in real time, judges their emotional state, and delivers them in a sleek, mildly hypnotic UI that might make you question your life choices… or at least your portfolio.  
-    Turns chaotic headlines into “Bullish”, “Bearish”, or “Neutral” insights while I pretend I understand the market’s mood swings 🤯.
+    Pulls live RSS/Atom feeds for crypto and major equities, scores every headline, auto-classifies narratives, 
+    and surfaces market mood through interactive filters, metrics, and charts.  
+    Converts noisy financial headlines into clear Positive / Neutral / Negative insights — 
+    so you can at least pretend you understand the market’s mood swings 🤯.
   </p>
   <p>
-    May trigger existential dread, portfolio panic, or endless doom-scrolling 😅📈.
+    Side effects may include existential dread, portfolio panic, or competitive doom-scrolling 😅📈.
   </p>
   <a href="https://github.com/ArshiBansal/NEWS_SENTIMENTS_ANALYSER" target="_blank">Catch the Sentiment 📰</a>
 </div>

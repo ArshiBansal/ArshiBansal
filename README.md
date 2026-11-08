@@ -348,28 +348,6 @@
 <br>
 <br>
 
-<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
-
-<br>
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=B08968&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=TLDR%3A+Caffeine-powered+logic+trying+to+outsmart+unexpected+bugs."
-    alt="TLDR SVG"
-  />
-</div>
-
-<div align="center">
-
-<b><i>Who am I?</i></b> — Arshi Bansal: overthinker by default, data interpreter by training, and accidental bug engineer by experience 😎💻<br>
-<b><i>What I do?</i></b> — Translate messy datasets into somewhat usable insights, occasionally confuse ML models, and pretend statistics makes emotional sense 🤯<br>
-<b><i>Skills & Tools:</i></b> Python, Java, SQL, Power BI, Tableau, Streamlit, Jupyter, and an ever-growing list of things that silently intimidate me 👀<br>
-<b><i>Current Focus:</i></b> Building pipelines, dashboards, and models that behave better than my debugging sessions ⚡<br>
-<b><i>Fun Fact:</i></b> Solve problems at night, regret life choices in the morning, still ship code anyway 😵‍💫<br>
-<b><i>Bottom Line:</i></b> Write code. Create chaos. Consume coffee. Repeat. Bugs included free of charge 😏💥<br>
-
-</div>
-<br>
-<br>
 <div align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=900&color=B08968&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=That%E2%80%99s+a+wrap%E2%80%A6+thanks+for+scrolling+through+my+code+universe.;Hope+it+made+sense%E2%80%A6+or+at+least+made+you+smile.;Errors+are+unintentional+collaborators.;Built+with+curiosity%2C+caffeine%2C+and+a+bit+of+chaos."
